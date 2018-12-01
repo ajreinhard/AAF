@@ -1,0 +1,2796 @@
+            
+<!DOCTYPE html>
+<!--// OPEN HTML //-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115646559-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-115646559-1');
+</script> -->
+	<!-- End Global site tag (gtag.js) - Google Analytics -->
+	
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://aaf.com/xmlrpc.php">
+        <!-- Mobile Specific Metas
+    ================================================== -->
+	                        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+            	     <title>Birmingham Iron Team Page | AAF.com - Roster</title>
+                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Poppins:300,700,500', 'Rubik:300', 'Volkhov:400italic', 'Roboto:700,400&subset=latin']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                        
+<!-- This site is optimized with the Yoast SEO plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="The official website of the Birmingham Iron football team with the most up-to-date rosters for players, coaches, signings and other transactions."/>
+<link rel="canonical" href="https://aaf.com/birmingham-iron/roster/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Birmingham Iron Team Page | AAF.com - Roster" />
+<meta property="og:description" content="The official website of the Birmingham Iron football team with the most up-to-date rosters for players, coaches, signings and other transactions." />
+<meta property="og:url" content="https://aaf.com/birmingham-iron/roster/" />
+<meta property="og:site_name" content="Alliance of American Football" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="The official website of the Birmingham Iron football team with the most up-to-date rosters for players, coaches, signings and other transactions." />
+<meta name="twitter:title" content="Birmingham Iron Team Page | AAF.com - Roster" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Alliance of American Football &raquo; Feed" href="https://aaf.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Alliance of American Football &raquo; Comments Feed" href="https://aaf.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/aaf.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://aaf.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://aaf.com/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.10.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://aaf.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='uaf_client_css-css'  href='https://aaf.com/wp-content/uploads/useanyfont/uaf.css?ver=1537439123' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://aaf.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://aaf.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.5.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://aaf.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.5.1' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='custom-style-css'  href='https://aaf.com/wp-content/themes/tentered/css/custom.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='PI_stt_front-css'  href='https://aaf.com/wp-content/plugins/simple-twitter-tweets/css/stt.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='tawcvs-frontend-css'  href='https://aaf.com/wp-content/plugins/variation-swatches-for-woocommerce/assets/css/frontend.css?ver=20160615' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://aaf.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://aaf.com/wp-content/themes/tentered/css/bootstrap.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='https://aaf.com/wp-content/themes/tentered/css/bootstrap-theme.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='line-icons-css'  href='https://aaf.com/wp-content/themes/tentered/css/line-icons.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://aaf.com/wp-content/themes/tentered/css/font-awesome.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='animations-css'  href='https://aaf.com/wp-content/themes/tentered/css/animations.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tentered-main-css'  href='https://aaf.com/wp-content/themes/tentered/style.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css'  href='https://aaf.com/wp-content/themes/tentered/vendor/magnific/magnific-popup.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://aaf.com/wp-content/themes/tentered/vendor/owl-carousel/css/owl.carousel.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-theme-css'  href='https://aaf.com/wp-content/themes/tentered/vendor/owl-carousel/css/owl.theme.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tentered-colors-css'  href='https://aaf.com/wp-content/themes/tentered/colors/color1.css?ver=1.4.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://aaf.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://aaf.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/stop-user-enumeration/frontend/js/frontend.js?ver=1.3.15'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/aaf.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.5.2'></script>
+<script>
+window.wc_ga_pro = {};
+
+window.wc_ga_pro.available_gateways = {"stripe":"Credit Card (Stripe)"};
+
+// interpolate json by replacing placeholders with variables
+window.wc_ga_pro.interpolate_json = function( object, variables ) {
+
+	if ( ! variables ) {
+		return object;
+	}
+
+	var j = JSON.stringify( object );
+
+	for ( var k in variables ) {
+		j = j.split( '{$' + k + '}' ).join( variables[ k ] );
+	}
+
+	return JSON.parse( j );
+};
+
+// return the title for a payment gateway
+window.wc_ga_pro.get_payment_method_title = function( payment_method ) {
+	return window.wc_ga_pro.available_gateways[ payment_method ] || payment_method;
+};
+
+// check if an email is valid
+window.wc_ga_pro.is_valid_email = function( email ) {
+  return /[^\s@]+@[^\s@]+\.[^\s@]+/.test( email );
+};
+</script>
+<!-- Start WooCommerce Google Analytics Pro -->
+		<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga( 'create', 'UA-115646559-1', {"cookieDomain":"auto"} );
+	ga( 'set', 'forceSSL', true );
+	ga( 'require', 'ec' );
+	</script>
+		<!-- end WooCommerce Google Analytics Pro -->
+		<link rel='https://api.w.org/' href='https://aaf.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aaf.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://aaf.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<meta name="generator" content="WooCommerce 3.5.1" />
+<link rel='shortlink' href='https://aaf.com/?p=625' />
+<link rel="alternate" type="application/json+oembed" href="https://aaf.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faaf.com%2Fbirmingham-iron%2Froster%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://aaf.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faaf.com%2Fbirmingham-iron%2Froster%2F&#038;format=xml" />
+<style type="text/css">
+#menu-toggle:hover,#sidebar-col .widgettitle,.accent-color,.basic-link,.blog-posts .post .blog-post-details a:hover,.btn-link,.btn-primary .badge,.dd-menu>li a:hover,.dd-menu>li.current-menu-item>a,.dd-menu>li.current-menu-parent>a,.dnav1 .next:hover,.dnav1 .prev:hover,.fblock-style2 .fblock-icon,.header-style2 .is-sticky .dd-menu>li>a:hover,.header-style4 .dd-menu>li:hover>a,.header-style4 .dd-menu>li>a:hover,.icon-box-inline span,.icon-box.ibox-border .ibox-icon i,.icon-box.ibox-border .ibox-icon img,.icon-box.ibox-plain .ibox-icon i,.icon-box.ibox-plain .ibox-icon img,.list-group-item a:hover,.megamenu-sub-title i,.nav-np .next:hover,.nav-np .prev:hover,.nav-pills>.active>a>.badge,.pagination>li>a:focus,.pagination>li>a:hover,.pagination>li>span:focus,.pagination>li>span:hover,.portfolio-item:hover .action-icons a,.post .post-title a:hover,.post-actions .comment-count a:hover,.pricing-column .features a:hover,.pricing-column h3,.search-icon a:hover,.services-list li i.fa,.single-product .woocommerce-Price-amount,.site-footer .footer_widget a:hover,.team-list-item h3 a:hover,.team-position,.testimonial .fa-quote-left,.text-primary,.widget a:hover,.widget li .meta-data a:hover,.widget.recent_posts ul li h5 a:hover,.widget_archive ul li a:hover,.widget_categories ul li a:hover,.widget_links ul li a:hover,.widget_links ul li.active a,.widget_meta ul li a:hover,.widget_recent_comments ul li a:hover,.widget_recent_entries ul li a:hover,.woocommerce ul.products li.product .price,.woocommerce ul.products li.product a:hover h3,a,a.external:before,a.list-group-item.active>.badge,a:hover,address strong,p.drop-caps:first-letter,ul.angles li:before,ul.carets li:before,ul.chevrons li::before,ul.icon>li>i,ul.inline li i.fa,ul.inline li:before{
+				color:#002b63;
+			}
+			.accent-color,.features:hover a{
+				color:#002b63!important;
+			}
+			.accordion-heading .accordion-toggle.active,.blog-image:hover .blog-overlay,.btn-primary,.btn-primary.disabled,.btn-primary.disabled.active,.btn-primary.disabled:active,.btn-primary.disabled:focus,.btn-primary.disabled:hover,.btn-primary[disabled],.btn-primary[disabled].active,.btn-primary[disabled]:active,.btn-primary[disabled]:focus,.btn-primary[disabled]:hover,.carousel-indicators .active,.dd-menu>li>ul>li>a:hover,.dd-menu>li>ul>li>ul>li>a:hover,.dd-menu>li>ul>li>ul>li>ul>li>a:hover,.dropdown-menu>.active>a,.dropdown-menu>.active>a:focus,.dropdown-menu>.active>a:hover,.fblock-image-overlay,.fblock-style2:hover .fblock-icon,.features .features-icon,.flex-control-nav a.flex-active,.flex-control-nav a:hover,.header-style3 .dd-menu>li ul,.header-style3 .dd-menu>li.current-menu-item>a,.header-style3 .dd-menu>li:hover>a,.header-style3 .dd-menu>li>a:hover,.header-style3 .dd-menu>li>ul>li>ul>li>a:hover,.header-style3 .dd-menu>li>ul>li>ul>li>ul>li>a:hover,.ibox-border.ibox-effect.ibox-dark .ibox-icon i:after,.ibox-effect.ibox-dark .ibox-icon i:hover,.ibox-effect.ibox-dark:hover .ibox-icon i,.icon-box .ibox-icon i,.icon-box .ibox-icon img,.icon-box.ibox-dark.ibox-outline:hover .ibox-icon i,.icon-box.icon-box-style1:hover .ico,.label-primary,.media-box .media-box-wrapper,.nav-pills>li.active>a,.nav-pills>li.active>a:focus,.nav-pills>li.active>a:hover,.nav-tabs>li.active>a,.nav-tabs>li.active>a:focus,.nav-tabs>li.active>a:hover,.overlay-accent,.owl-theme .owl-controls.clickable .owl-page:hover span,.owl-theme .owl-page.active span,.pagination>.active>a,.pagination>.active>a:focus,.pagination>.active>a:hover,.pagination>.active>span,.pagination>.active>span:focus,.pagination>.active>span:hover,.panel-primary>.panel-heading,.parallax-overlay,.portfolio-item:hover .project-overlay:before,.pricing-column.highlight h3,.progress-bar-primary,.services-overlay:before,.single-team-media .social-icons,.social-icons-colored li.envelope a:hover,.social-icons-inverted li.envelope a,.social-share-bar .share-buttons-tc li a,.tagcloud a:hover,.team-item:hover .team-overlay-bg,a.list-group-item.active,a.list-group-item.active:focus,a.list-group-item.active:hover,fieldset[disabled] .btn-primary,fieldset[disabled] .btn-primary.active,fieldset[disabled] .btn-primary:active,fieldset[disabled] .btn-primary:focus,fieldset[disabled] .btn-primary:hover,p.drop-caps.secondary:first-letter{
+			  background-color:#002b63;
+			}
+			.accent-bg,.accent-overlay:before,.donate-button,.woocommerce #content input.button.alt:active,.woocommerce #content input.button.alt:hover,.woocommerce #respond input#submit.alt:active,.woocommerce #respond input#submit.alt:hover,.woocommerce a.button.alt:active,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:active,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:active,.woocommerce input.button.alt:hover,.woocommerce ul.products li.product .button,.woocommerce-page #content input.button.alt:active,.woocommerce-page #content input.button.alt:hover,.woocommerce-page #respond input#submit.alt:active,.woocommerce-page #respond input#submit.alt:hover,.woocommerce-page a.button.alt:active,.woocommerce-page a.button.alt:hover,.woocommerce-page button.button.alt:active,.woocommerce-page button.button.alt:hover,.woocommerce-page input.button.alt:active,.woocommerce-page input.button.alt:hover,.wpcf7-form .wpcf7-submit{
+			  background-color: #002b63!important;
+			}
+			.woocommerce #content input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce .widget_layered_nav ul li.chosen a,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page .widget_layered_nav ul li.chosen a,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,.woocommerce-page a.button.alt,.woocommerce-page button.button.alt,.woocommerce-page input.button.alt,.wpcf7-form .wpcf7-submit,p.demo_store{
+			  background: #002b63;
+			}
+			.btn-primary.active,.btn-primary:active,.btn-primary:focus,.btn-primary:hover,.open .dropdown-toggle.btn-primary{
+			  background: #002b63;
+			  opacity:.9
+			}
+			.btn-primary.btn-transparent,.fblock-style2 .fblock-icon,.icon-box-inline span,.icon-box.ibox-border .ibox-icon,.icon-box.ibox-dark.ibox-outline:hover .ibox-icon,.icon-box.ibox-outline .ibox-icon,.icon-box.icon-box-style1 .ico,.nav .open>a,.nav .open>a:focus,.nav .open>a:hover,.nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:focus,.nav-tabs.nav-justified>.active>a:hover,.nav-tabs>li.active>a,.nav-tabs>li.active>a:focus,.nav-tabs>li.active>a:hover,.pagination>.active>a,.pagination>.active>a:focus,.pagination>.active>a:hover,.pagination>.active>span,.pagination>.active>span:focus,.pagination>.active>span:hover,.panel-primary,.panel-primary>.panel-heading,.services-list li:hover section,.tagcloud a:hover,.timeline .column .title .label:before,a.list-group-item.active,a.list-group-item.active:focus,a.list-group-item.active:hover,a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover{
+				border-color:#002b63;
+			}
+			.header-style4 .dd-menu>li.active>a,.header-style4 .dd-menu>li:hover>a,.header-style4 .dd-menu>li>a:hover,.panel-primary>.panel-heading+.panel-collapse .panel-body,.woocommerce .woocommerce-info,.woocommerce .woocommerce-message,.woocommerce-page .woocommerce-info,.woocommerce-page .woocommerce-message{
+				border-top-color:#002b63;
+			}
+			.dd-menu>li ul:before,.dd-menu>li>a:before,.panel-primary>.panel-footer+.panel-collapse .panel-body{
+				border-bottom-color:#002b63;
+			}
+			#sidebar-col .widget_nav_menu ul li a:hover,#sidebar-col .widget_nav_menu ul li.current-menu-item a,.dd-menu>ul>li>ul li:hover,blockquote{
+				border-left-color:#002b63;
+			}
+			.dd-menu>li ul li ul:before{
+				border-right-color: #002b63;
+			}
+			.ibox-border.ibox-effect.ibox-dark .ibox-icon i:hover,.ibox-border.ibox-effect.ibox-dark:hover .ibox-icon i{
+				box-shadow:0 0 0 1px #002b63;
+			}
+			.ibox-effect.ibox-dark .ibox-icon i:after{
+				box-shadow:0 0 0 2px #002b63;
+			}
+			@media only screen and (max-width:992px){.header-style3 .dd-menu>li a:hover{
+					color:#002b63;
+				}
+			}
+			.header-style2 .dd-menu > li ul:before{border-bottom-color:;}
+			.header-style2 .dd-menu > li ul li ul:before{border-right-color:;}
+			.header-style2 .dd-menu > li.megamenu ul:before{border-bottom-color:;}
+			@media (min-width: 1200px) {.container{width:1170px;}}
+			body.boxed .body, body.boxed .vc_row-no-padding{max-width:1200px!important;}
+			@media (min-width: 1200px) {body.boxed .site-header{width:1200px;margin-left:-600px;}}
+			.dd-menu > li > a, .search-module-trigger, .cart-module-trigger, .mmenu-toggle{line-height:65px;}
+		.site-header .container, .topbar .container, .fw-menu-wrapper .container{width:100%;}.content{min-height:400px}.search-module-opened, .cart-module-opened{top:65px;}
+/*========== User Custom CSS Styles ==========*/
+/* Gen mods */
+
+body {
+    background: #eee;
+}
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-tab>a {
+    padding: 14px 10px !important;
+}
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-title-text:not(:empty):not(:first-child), .wpb-js-composer .vc_tta.vc_general .vc_tta-title-text:not(:empty)~* {
+    margin-left: 4px;
+    font-size: 16px;
+}
+
+.woocommerce #content table.cart td.actions .coupon, .woocommerce table.cart td.actions .coupon, .woocommerce-page #content table.cart td.actions .coupon, .woocommerce-page table.cart td.actions .coupon {
+    display: none;
+}
+
+.button {
+    border-radius: 0 !important;
+}
+
+#back-to-top {
+    display:none;
+}
+
+.vc_tta-panel-body .price {
+    display:none;
+} 
+
+
+.content {
+    background-color: #eee;
+}
+.banners {
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+.banners-footer {
+    margin-top: 0;
+}
+.banner2, .banner3, .banner4, .banner5, .banner6, .banner7, .banner8, .banner9 {
+    display:none;
+}
+.storebanner {
+background: linear-gradient(to bottom, rgba(160,160,160,1) 16%,rgba(94,94,94,1) 80%,rgba(61,61,61,1) 99%);
+}
+.header-style4 .page-banner {
+    border-bottom: 0 !important;
+    border-top: 0 !important;
+    height: 0 !important;
+}
+
+.woocommerce-page .parallax, .page-banner {
+    display: none;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #002f6c;
+}
+h1, h2 {
+     text-transform: uppercase;
+}
+h1 {
+    font-size: 40px;
+}
+
+h3 strong, h2 strong, h1 strong { 
+    color:#d0212d;
+}
+
+.vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern {
+    color: #666;
+    border-color: #7b7b7b;
+    background-color: #ebebeb00;
+}
+
+.tawcvs-swatches .swatch {
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    /* -webkit-border-radius: 50%; */
+    -moz-border-radius: 0;
+    border-radius: 0;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 39px;
+    text-align: center;
+    margin-right: 15px;
+    cursor: pointer;
+    border: 2px solid #022e6c;
+    position: relative;
+    opacity: 0.5;
+}
+
+
+.woocommerce button.button.alt.disabled {
+    background-color: #022e6c;
+    color: #fff;
+}
+
+.tawcvs-swatches .swatch.selected {
+    -webkit-box-shadow: 0 0 5px;
+    -moz-box-shadow: 0 0 5px;
+    box-shadow: 0 0 5px;
+    border-color: #022e6c;
+    opacity: 1;
+}
+
+.vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline {
+    font-size: 18px;
+    color: #666;
+    border-color: #7b7b7b;
+    text-transform: uppercase;
+}
+
+.vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline:focus, .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline:hover {
+    color: #666;
+    border-color: #9e9e9e;
+    background-color: #d1d1d1;
+}
+
+.vc_gitem-zone {
+    max-height: 150px;
+}
+
+.site-footer-top {
+    padding: 25px 0 0 0;
+    background: #e2e2e2;
+}
+
+.site-footer .footer_widget {
+   margin-bottom: 25px;
+}
+
+.site-header .container {
+    box-shadow: rgba(0, 0, 0, 0.47) 0px 1px 2px 0px;
+}
+
+label {
+    width: 100%;
+}
+
+.wpcf7-form input, .wpcf7-form textarea {
+    width: 100%;
+    padding: 12px;
+}
+
+.parallax, .page-banner {
+    background-color: #cacaca;
+}
+
+.page-banner-text h1 {
+    color: #01316e;
+    word-break: break-word;
+}
+
+.single-post .page-banner-text h1 {
+    text-align:left;
+        line-height: 45px;
+        margin: 20px 0 14px 0;
+}
+
+
+.related {
+    clear:both;
+}
+
+
+.tp-caption {
+    font-family: 'alliance','fallbackfont',genericfont !important;
+}
+
+.page-banner .page-banner-text .breadcrumb,
+.page-banner .page-banner-text .breadcrumb a {
+    display: none;
+}
+
+.page .vc_gitem-post-data-source-post_excerpt {
+    display:none;
+}
+
+.page .vc_btn3.vc_btn3-color-juicy-pink, .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat {
+  display:none;
+}
+
+ .page .vc_gitem-post-data-source-post_title h4 {
+    line-height: 18px !important;
+    font-family: Rubik !important;
+    color: #e5e5e5 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+    font-size: 13px;
+}
+ 
+ .page .page-banner-text > div > div, .single-product .page-banner-text > div > div {
+    display: none;
+}
+
+
+.page-banner-text > div > div {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.topbar {
+    display: none;
+    border: none;
+}
+
+.site-footer-top .footer_widget {
+    text-align: center;
+}
+
+/* Tabs Mods */
+
+.wpb-js-composer .vc_tta.vc_tta-shape-rounded .vc_tta-tab>a {
+    border-radius: 0 !important;
+}
+
+.vc_tta-tab {
+    min-width: 33% !important;
+    text-align: center;
+    font-family: 'alliance' !important;
+}
+
+
+/* Tickets Tabs */
+.wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs .vc_tta-panels .vc_tta-panel-body {
+    background-color: #fff !important;
+}
+
+.wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab.vc_active>a {
+
+    background-color: #fff !important;
+    color: #666;
+}
+.wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab>a {
+
+    background-color: #cdcdcd !important;
+    color: #666;
+}
+
+.wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading {
+    background-color: #fff !important;
+}
+
+
+/* Mobile Mods */
+
+@media only screen and (max-width: 992px) {
+.site-logo {
+    margin-top: 7px !important ;
+}
+.mmenu-toggle {
+    float: left;
+    right: 0;
+    margin-left: 0;
+    padding-right: 18px;
+    line-height: 60px;
+    color: #fff;
+}
+
+.dd-menu > li > a, .search-module-trigger, .cart-module-trigger, .mmenu-toggle {
+    line-height: 60px;
+}
+
+.header-style4 .mmenu-toggle {
+    color: #ffffff;
+}
+.welcome-text {
+  font-size: 14px !important;
+    line-height: 16px;
+    min-height: 32px;
+}
+#sidebar-col {
+    clear: both;
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+h1 {
+    font-size: 25px;
+    line-height: 24px !important;
+}
+
+.vc_gitem-zone {
+    max-height: 300px;
+}
+
+.banners {
+    margin-top: 1px;
+    margin-bottom: -15px;
+}
+
+.blog-posts .post h3, .woocommerce div.product .product_title {
+    margin-bottom: 3px;
+    line-height: 22px !important;
+    font-size: 20px !important;
+}
+
+.mobile-menu .dd-menu > li > a, .mobile-menu .dd-menu > li > ul > li > a, .mobile-menu .dd-menu > li > ul > li > ul > li > a, .mobile-menu .dd-menu > li > a:hover, .mobile-menu .dd-menu > li:hover > a {
+    padding-left: 20px;
+}
+
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    width: 100%;
+}
+#myTable td {
+    font-size: 12px;
+}
+
+}
+
+
+/* Ad location */
+
+.ad-wrapper  {
+    text-align: center;
+} 
+
+.ad-wrapper .widget_media_image img {
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+
+/* Menu */
+
+.dd-menu {
+    float: left !important;
+}
+
+.sub-menu {
+    text-transform: uppercase;
+} 
+
+.main-menu {
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
+
+.fa-search:before {
+    color: #fff;
+}
+.fa-shopping-cart:before {
+    color: #fff;
+}
+
+.vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline {
+    color: #3a3a3a;
+    border-color: #434343;
+    text-transform: uppercase;
+}
+
+.woocommerce-loop-product__title {
+        color: #373737;
+}
+
+body { 
+    font-size: 18px !important;
+    line-height: 32px !important;
+    color: rgba(29,29,29,.7);
+}
+p {  
+    letter-spacing: .06em; 
+}
+
+.btn-default, .btn-primary, .btn-success, .btn-info, .btn-warning, .btn-danger {
+    border-radius: 0;
+}
+#myInput {
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header {
+    background-color: #00306b;
+    color: #fff;
+    font-weight: 900;
+    font-family: 'alliance','fallbackfont',genericfont !important;
+}
+
+
+/* Woo Mods */
+
+
+.woocommerce ul#shipping_method .amount {
+    color: #002964;
+}
+
+.woocommerce ul#shipping_method {
+    font-size: 14px;
+}
+
+.woocommerce div.product .product_title {
+    line-height: 28px;
+    font-size: 25px;
+    font-family: "lato", sans-serif !important;
+}
+
+.woocommerce-product-details__short-description {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+.woocommerce-page .content, .page-id-14917 .content {
+    background-color: #fff;
+}
+
+
+.header-quickcart .woocommerce-mini-cart > li > a > img {
+    display: none;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range {
+    background: #cacaca!important;
+}
+
+.woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
+    font-size: 16px;
+    line-height: 19px !important;
+    font-family: rubik !important;
+    color: #757575;
+}
+
+.vc_tta-panel-body .related {
+    display:none;
+}
+
+.woocommerce div.product .woocommerce-tabs .panel {
+    padding: 20px;
+}
+
+
+.cart-tquant {
+    background: #d31b2a;
+    border-radius: 0;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a {
+    font-family: alliance;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+    font-family: alliance;
+}
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title,
+.woocommerce ul.products li.product .woocommerce-loop-product__title,
+.woocommerce ul.products li.product h3 {
+    font-size: 15px;
+    line-height: 17px;
+}
+.woocommerce ul.products li.product .woocommerce-Price-amount {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+body {
+    opacity: 1;
+    visibility: visible;
+    transition: none !important;
+}
+
+
+.product_meta {
+    display:none;
+}
+
+
+.woocommerce div.product .product_title {
+    line-height: 38px;
+    font-size: 30px;
+}
+
+.tax-product_cat .page-title, .tax-product_cat .term-description {
+    text-align: center;
+}
+
+.woocommerce ul.product_list_widget li img {
+    float: none;
+    margin-left: 0;
+    width: 100%;
+    margin: 10px 0;
+}
+
+@media (min-width: 992px) {
+.col-md-4 {
+    width: 25%;
+}
+.col-md-8 {
+    width: 75%;
+}
+#menu-store-menu > li > a {
+    line-height: 17px !important;
+    font-size: 13px !important;
+    letter-spacing: 0 !important;
+    max-width: 100px !important;
+    text-align: center !important;
+    margin-top: 14px !important;
+    margin-bottom: 17px !important;
+}
+
+#menu-store-menu > li {
+    padding: 0 0 0 20px;
+}
+
+}
+
+ #sidebar-col .widgettitle {
+     
+     font-size: 20px;
+    border-left: 3px solid #173f75;
+    height: 21px;
+    padding-left: 18px;
+    line-height: 25px;
+ }
+ 
+ .widget_tentered_recent_post ul li .media-box img {
+    width: 100%;
+    padding: 0;
+    background: #fff;
+    border: 0;
+    margin-bottom: 10px;
+}
+
+.vc_gitem-post-data-source-post_title {
+	display: inline-block;
+	height: 52px;
+	overflow: hidden;
+	padding: 0 1px;
+	text-overflow: ellipsis;
+	width: 100%;
+}
+
+.vc_gitem-post-data {
+    margin-bottom: -30px;
+}
+
+.widget_tentered_recent_post ul li h5, .widget_tentered_recent_post ul li .meta-data.grid-item-meta {
+    padding-left: 0;
+}
+
+.single-post .hero-area {
+    height: auto !important;
+}
+
+.single-post .hero-area .page-banner {
+    height: 100% !important;
+}
+.vc_gitem-zone .vc-zone-link {
+    border: 1px solid #ccc;
+}
+.vc_gitem_row .vc_gitem-col {
+    background-color: #023475;
+    border-bottom: 1px solid #5b5b5b;
+    border-left: 1px solid #5b5b5b;
+    border-right: 1px solid #5b5b5b;
+}
+.topbar {
+    border-bottom: 0 solid rgba(0,0,0,.1);
+}
+
+.tax-product_cat .page-title {
+    display:none;
+}
+
+.woocommerce-page .widget_layered_nav ul li.chosen a {
+    background: #ffffff;
+}
+
+/* Store Header styles */
+
+.header-style3 .site-header {
+    background-color: #fff;
+}
+
+.header-style3 .dd-menu > li > a {
+    color: #656565 !important;
+    text-transform: uppercase;
+
+}
+
+.page-id-14917 .ad1, .woocommerce-page .ad1 {
+    display:none;
+}
+
+
+.woocommerce-pagination {
+    display: block;
+}
+
+/* Team header global styles */
+@media only screen and (min-width: 768px) {
+.header-style4 .dd-menu > li > a {
+    line-height: 57px;
+    height: 64px;
+}
+#myTable td {
+    font-size: 18px;
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+.ad-wrapper .widget_media_image img {
+    margin-top: -6px;
+    margin-bottom: -20px;
+}
+.page-banner { 
+    height: 1px !important;
+    margin-top: -25px;
+}
+.storebannerbox {
+    margin-top:3px;
+}
+
+.storebannerbox h3{
+    font-size: 19px;
+}
+.footer-menu {
+    float: none;
+}
+}
+
+.header-style4 .dd-menu > li > ul {
+    top: 66px;
+}
+.header-style4 .site-header .site-logo {
+    text-align: left;
+}
+
+.header-style4 .dd-menu > li {
+    border-right: 0px solid #eaeaea;
+}
+.header-style4 .dd-menu {
+    border-left: 0px solid #eaeaea;
+}
+
+.header-style4 .site-header .site-logo {
+    width: auto;
+     float: left;
+}
+
+.league-nav {
+    background-color: #e2e2e2;
+    padding: 2px 15px;
+    border-bottom: 1px solid #ccc;
+}
+.header-style4 .dd-menu {
+    margin-top: 0;
+}
+
+.header-style4 #sticky-nav .container {
+    display: none;
+}
+
+.welcome-text {
+    text-align: center;
+    display: block;
+    font-family: 'alliance','fallbackfont',genericfont !important;
+    font-size: 14px;
+    min-height: 30px;
+}
+.leage-logo {
+    height: 30px;
+    float: left;
+}
+
+/* Team Page styles */
+
+
+/* Team Tickets */
+
+.page-id-12539 .woocommerce div.product div.images,
+.page-id-12587 .woocommerce div.product div.images,
+.page-id-12579 .woocommerce div.product div.images,
+.page-id-12546 .woocommerce div.product div.images,
+.page-id-621 .woocommerce div.product div.images,
+.page-id-631 .woocommerce div.product div.images,
+.page-id-623 .woocommerce div.product div.images,
+.page-id-637 .woocommerce div.product div.images {
+    float: left;
+    width: 48%;
+    display: none;
+}
+
+.page-id-12539 .woocommerce div.product div.summary,
+.page-id-12587 .woocommerce div.product div.summary,
+.page-id-12579 .woocommerce div.product div.summary,
+.page-id-12546 .woocommerce div.product div.summary,
+.page-id-621 .woocommerce div.product div.summary,
+.page-id-631 .woocommerce div.product div.summary,
+.page-id-623 .woocommerce div.product div.summary,
+.page-id-637 .woocommerce div.product div.summary {
+    float: none;
+    width: 100%;
+    clear: none;
+}
+
+/* Atlanta Legends style */
+
+.page-id-37609 .ad1 {
+    display:none;
+}
+
+.page-id-29959 .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-body {
+    background-color: #522771 !important;
+}
+.page-id-29959 .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-body h3 {
+    color:#fff !important;
+}
+.page-id-29959 .wpcf7-form .wpcf7-submit {
+    background-color: #c5b780!important;
+    width: 150px;
+}
+
+.page-id-621 .woocommerce button.button.alt {
+    background: #60277a;
+}
+.page-id-621 .single-product .woocommerce-Price-amount {
+    color: #60277a;
+}
+
+.page-id-619 #myTable tr.header {
+    background-color: #c3ae7b;
+}
+.page-id-37609 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-30848 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-29959 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-22602 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-621 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-619 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-168 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-617 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline
+{
+    color: #5c317c;
+    border-color: #5c317c;
+    text-transform: uppercase;
+}
+.page-id-37609 .banner3,
+.page-id-30848 .banner3,
+.page-id-29959 .banner3,
+.page-id-22602 .banner3,
+.page-id-621 .banner3,
+.page-id-619 .banner3,
+.page-id-168 .banner3,
+.page-id-617 .banner3 {
+    display:block !important;
+}
+.page-id-37609 .banner1,
+.page-id-30848 .banner1,
+.page-id-29959 .banner1,
+.page-id-22602 .banner1,
+.page-id-621 .banner1,
+.page-id-619 .banner1,
+.page-id-168 .banner1,
+.page-id-617 .banner1 
+{ display:none !important;}
+.page-id-37609 .site-header .container,
+.page-id-30848 .site-header .container,
+.page-id-29959 .site-header .container,
+.page-id-22602 .site-header .container,
+.page-id-621 .site-header .container,
+.page-id-619 .site-header .container,
+.page-id-168 .site-header .container,
+.page-id-617 .site-header .container {
+    background-color: #522771;
+}
+.page-id-37609 .dd-menu > li > a,
+.page-id-30848 .dd-menu > li > a,
+.page-id-29959 .dd-menu > li > a,
+.page-id-22602 .dd-menu > li > a,
+.page-id-621 .dd-menu > li > a,
+.page-id-619 .dd-menu > li > a,
+.page-id-168 .dd-menu > li > a,
+.page-id-617 .dd-menu > li > a {  
+    color: #fff !important;
+    background-color: #512b6f !important;
+}
+.page-id-37609 .dd-menu > li > a:hover,
+.page-id-30848 .dd-menu > li > a:hover,
+.page-id-29959 .dd-menu > li > a:hover,
+.page-id-22602 .dd-menu > li > a:hover,
+.page-id-621 .dd-menu > li > a:hover,
+.page-id-619 .dd-menu > li > a:hover,
+.page-id-168 .dd-menu > li > a:hover,
+.page-id-617 .dd-menu > li > a:hover {  
+    background-color: #331848 !important;
+    color:#fff;
+}
+.page-id-37609 .dd-menu > li > a:focus,
+.page-id-30848 .dd-menu > li > a:focus,
+.page-id-29959 .dd-menu > li > a:focus,
+.page-id-22602 .dd-menu > li > a:focus,
+.page-id-621 .dd-menu > li > a:focus,
+.page-id-619 .dd-menu > li > a:focus,
+.page-id-168 .dd-menu > li > a:focus, 
+.page-id-617 .dd-menu > li > a:focus {  
+    background-color: #813ca4 !important;
+    color:#fff;
+}
+.page-id-37609 h1, .page-id-37609 h2, .page-id-37609 h3, .page-id-37609 h4,
+.page-id-30848 h1, .page-id-30848 h2, .page-id-30848 h3, .page-id-30848 h4,
+.page-id-29959 h1, .page-id-29959 h2, .page-id-29959 h3, .page-id-29959 h4,
+.page-id-22602 h1, .page-id-22602 h2, .page-id-22602 h3, .page-id-22602 h4, 
+.page-id-621 h1, 
+.page-id-621 h2, 
+.page-id-621 h3, 
+.page-id-621 h4,
+.page-id-619 h1, 
+.page-id-619 h2, 
+.page-id-619 h3, 
+.page-id-619 h4,
+.page-id-168 h1, 
+.page-id-168 h2, 
+.page-id-168 h3, 
+.page-id-168 h4,
+.page-id-617 h1, 
+.page-id-617 h2, 
+.page-id-617 h3, 
+.page-id-617 h4 {
+    color: #55236f;
+}
+.page-id-37609 .page-banner,
+.page-id-30848 .page-banner,
+.page-id-29959 .page-banner,
+.page-id-22602 .page-banner,
+.page-id-621 .page-banner,
+.page-id-619 .page-banner,
+.page-id-168 .page-banner, 
+.page-id-617 .page-banner {
+    background-color: #cebf92;
+}
+.page-id-37609 .vc_gitem_row .vc_gitem-col,
+.page-id-30848 .vc_gitem_row .vc_gitem-col,
+.page-id-29959 .vc_gitem_row .vc_gitem-col,
+.page-id-22602 .vc_gitem_row .vc_gitem-col, 
+.page-id-621 .vc_gitem_row .vc_gitem-col, 
+.page-id-619 .vc_gitem_row .vc_gitem-col, 
+.page-id-168 .vc_gitem_row .vc_gitem-col, 
+.page-id-617 .vc_gitem_row .vc_gitem-col {
+    border-bottom: 4px solid #cebf92;
+}
+.page-id-37609 .vc_gitem_row .vc_gitem-col,
+.page-id-30848 .vc_gitem_row .vc_gitem-col,
+.page-id-29959 .vc_gitem_row .vc_gitem-col,
+.page-id-22602 .vc_gitem_row .vc_gitem-col, 
+.page-id-621 .vc_gitem_row .vc_gitem-col, 
+.page-id-619 .vc_gitem_row .vc_gitem-col, 
+.page-id-168 .vc_gitem_row .vc_gitem-col, 
+.page-id-617 .vc_gitem_row .vc_gitem-col {
+    background-color: #522771;
+}
+.page-id-37609 .mobile-menu,
+.page-id-30848 .mobile-menu,
+.page-id-29959 .mobile-menu,
+.page-id-22602 .mobile-menu,
+.page-id-612 .mobile-menu,
+.page-id-619 .mobile-menu,
+.page-id-168 .mobile-menu, 
+.page-id-617 .mobile-menu {
+    background: #522771;
+}
+
+
+/* Bir Iron style */
+
+
+
+.page-id-37623 .ad1 {
+    display:none;
+}
+
+.page-id-623 .woocommerce button.button.alt {
+    background: #000;
+}
+.page-id-623 .single-product .woocommerce-Price-amount {
+    color: #000;
+}
+
+.page-id-625 #myTable tr.header {
+    background-color: #8b9398;
+} 
+.page-id-37623 .banner2,
+.page-id-30879 .banner2,
+.page-id-22611 .banner2,
+.page-id-623 .banner2,
+.page-id-625 .banner2,
+.page-id-170 .banner2,
+.page-id-390 .banner2 {
+    display:block !important;
+}
+.page-id-37623 .banner1,
+.page-id-30879 .banner1,
+.page-id-22611 .banner1,
+.page-id-623 .banner1,
+.page-id-625 .banner1,
+.page-id-170 .banner1,
+.page-id-390 .banner1 
+{ display:none !important;}
+.page-id-37623 .site-header .container,
+.page-id-30879 .site-header .container,
+.page-id-22611 .site-header .container,
+.page-id-623 .site-header .container,
+.page-id-625 .site-header .container,
+.page-id-170 .site-header .container,
+.page-id-390 .site-header .container {
+    background-color: #000;
+}
+.page-id-37623 .dd-menu > li > a,
+.page-id-30879 .dd-menu > li > a,
+.page-id-22611 .dd-menu > li > a,
+.page-id-623 .dd-menu > li > a,
+.page-id-625 .dd-menu > li > a,
+.page-id-170 .dd-menu > li > a,
+.page-id-390 .dd-menu > li > a {
+    color: #fff !important;
+     background-color: #000 !important;
+}
+.page-id-37623 .dd-menu > li > a:hover, 
+.page-id-30879 .dd-menu > li > a:hover, 
+.page-id-22611 .dd-menu > li > a:hover, 
+.page-id-623 .dd-menu > li > a:hover, 
+.page-id-625 .dd-menu > li > a:hover, 
+.page-id-170 .dd-menu > li > a:hover, 
+.page-id-390 .dd-menu > li > a:hover {
+    background-color: #8a9398 !important;
+    color: #fff !important;
+}
+.page-id-37623 .dd-menu > li > a:focus,
+.page-id-30879 .dd-menu > li > a:focus,
+.page-id-22611 .dd-menu > li > a:focus,
+.page-id-623 .dd-menu > li > a:focus,
+.page-id-625 .dd-menu > li > a:focus,
+.page-id-168 .dd-menu > li > a:focus,
+.page-id-168 .dd-menu > li > a:focus {  
+    background-color: #8a9398 !important;
+    color:#fff;
+}
+.page-id-37623 h1, .page-id-37623 h2, .page-id-37623 h3, .page-id-37623 h4,
+.page-id-30879 h1, .page-id-30879 h2, .page-id-30879 h3, .page-id-30879 h4,
+.page-id-22611 h1, .page-id-22611 h2, .page-id-22611 h3, .page-id-22611 h4, 
+.page-id-623 h1, 
+.page-id-625 h1,
+.page-id-623 h2, 
+.page-id-625 h2,
+.page-id-623 h3, 
+.page-id-625 h3,
+.page-id-623 h4, 
+.page-id-625 h4, 
+.page-id-170 h1, 
+.page-id-390 h1,
+.page-id-170 h2, 
+.page-id-390 h2,
+.page-id-170 h3, 
+.page-id-390 h3,
+.page-id-170 h4, 
+.page-id-390 h4 {
+    color: #000 !important;
+}
+.page-id-37623 .page-banner,
+.page-id-30879 .page-banner,
+.page-id-22611 .page-banner,
+.page-id-623 .page-banner,
+.page-id-625 .page-banner,
+.page-id-170 .page-banner,
+.page-id-390 .page-banner {
+    background-color: #8a9398 !important;
+}
+.page-id-37623 .vc_gitem_row .vc_gitem-col,
+.page-id-30879 .vc_gitem_row .vc_gitem-col,
+.page-id-22611 .vc_gitem_row .vc_gitem-col,
+.page-id-623 .vc_gitem_row .vc_gitem-col,
+.page-id-625 .vc_gitem_row .vc_gitem-col,
+.page-id-170 .vc_gitem_row .vc_gitem-col,
+.page-id-390 .vc_gitem_row .vc_gitem-col {
+    border-bottom: 4px solid #000;
+} 
+.page-id-37623 .vc_gitem_row .vc_gitem-col,
+.page-id-30879 .vc_gitem_row .vc_gitem-col,
+.page-id-22611 .vc_gitem_row .vc_gitem-col,
+.page-id-623 .vc_gitem_row .vc_gitem-col,
+.page-id-625 .vc_gitem_row .vc_gitem-col,
+.page-id-170 .vc_gitem_row .vc_gitem-col,
+.page-id-390 .vc_gitem_row .vc_gitem-col{
+    background-color: #959ea2;
+}
+.page-id-37623 .mobile-menu,
+.page-id-30879 .mobile-menu,
+.page-id-22611 .mobile-menu,
+.page-id-623 .mobile-menu,
+.page-id-625 .mobile-menu,
+.page-id-170 .mobile-menu,
+.page-id-390 .mobile-menu{
+    background: #000;
+}
+
+
+
+/* Mem Express */
+
+.page-id-37637 .ad1 {
+    display:none;
+}
+
+.page-id-631 .woocommerce button.button.alt {
+    background: #072747;
+}
+.page-id-631 .single-product .woocommerce-Price-amount {
+    color: #072747;
+}
+
+.page-id-629 #myTable tr.header {
+    background-color: #de1e49;
+}
+.page-id-37637 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-30883 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-22626 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-627 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-629 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-631 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-172 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline
+{
+    color: #d4293c;
+    border-color: #d3273b;
+    text-transform: uppercase;
+}
+.page-id-37637 .banner4,
+.page-id-30883 .banner4,
+.page-id-22626 .banner4,
+.page-id-627 .banner4,
+.page-id-629 .banner4,
+.page-id-631 .banner4,
+.page-id-172 .banner4 {
+    display:block !important;
+}
+.page-id-37637 .banner1,
+.page-id-30883 .banner1,
+.page-id-22626 .banner1,
+.page-id-627 .banner1,
+.page-id-629 .banner1,
+.page-id-631 .banner1,
+.page-id-172 .banner1 
+{ display:none !important;}
+.page-id-37637 .site-header .container,
+.page-id-30883 .site-header .container,
+.page-id-22626 .site-header .container,
+.page-id-627 .site-header .container,
+.page-id-629 .site-header .container,
+.page-id-631 .site-header .container,
+.page-id-172 .site-header .container {
+    background-color: #db153c;
+}
+.page-id-37637 .dd-menu > li > a,
+.page-id-30883 .dd-menu > li > a,
+.page-id-22626 .dd-menu > li > a,
+.page-id-627 .dd-menu > li > a,
+.page-id-629 .dd-menu > li > a,
+.page-id-631 .dd-menu > li > a,
+.page-id-172 .dd-menu > li > a {  
+     color: #fff !important;
+     background-color: #db153c !important;
+}
+.page-id-37637 .dd-menu > li > a:hover,
+.page-id-30883 .dd-menu > li > a:hover,
+.page-id-22626 .dd-menu > li > a:hover,
+.page-id-627 .dd-menu > li > a:hover,
+.page-id-629 .dd-menu > li > a:hover,
+.page-id-631 .dd-menu > li > a:hover,
+.page-id-172 .dd-menu > li > a:hover {  
+     color: #fff !important;
+     background-color: #072747 !important;
+} 
+.page-id-37637 .dd-menu > li > a:focus,
+.page-id-30883 .dd-menu > li > a:focus,
+.page-id-22626 .dd-menu > li > a:focus,
+.page-id-627 .dd-menu > li > a:focus,
+.page-id-629 .dd-menu > li > a:focus,
+.page-id-631 .dd-menu > li > a:focus,
+.page-id-172 .dd-menu > li > a:focus {  
+    background-color: #db153c !important;
+    color:#fff;
+}
+.page-id-37637 h1, .page-id-37637 h2, .page-id-37637 h3, .page-id-37637 h4,
+.page-id-30883 h1, .page-id-30883 h2, .page-id-30883 h3, .page-id-30883 h4,
+.page-id-22626 h1, .page-id-22626 h2, .page-id-22626 h3, .page-id-22626 h4,
+.page-id-627 h1, 
+.page-id-627 h2, 
+.page-id-627 h3, 
+.page-id-627 h4,
+.page-id-629 h1, 
+.page-id-629 h2, 
+.page-id-629 h3, 
+.page-id-629 h4,
+.page-id-631 h1, 
+.page-id-631 h2, 
+.page-id-631 h3, 
+.page-id-631 h4,
+.page-id-172 h1, 
+.page-id-172 h2, 
+.page-id-172 h3, 
+.page-id-172 h4 {
+    color: #072747 !important;
+}
+.page-id-37637 .page-banner,
+.page-id-30883 .page-banner,
+.page-id-22626 .page-banner,
+.page-id-627 .page-banner,
+.page-id-629 .page-banner,
+.page-id-631 .page-banner,
+.page-id-172 .page-banner {
+    background-color: #072747 !important;
+}
+.page-id-37637 .vc_gitem_row .vc_gitem-col,
+.page-id-30883 .vc_gitem_row .vc_gitem-col,
+.page-id-22626 .vc_gitem_row .vc_gitem-col,
+.page-id-627 .vc_gitem_row .vc_gitem-col,
+.page-id-629 .vc_gitem_row .vc_gitem-col,
+.page-id-631 .vc_gitem_row .vc_gitem-col,
+.page-id-172 .vc_gitem_row .vc_gitem-col {
+    border-bottom: 4px solid #072747;
+}
+.page-id-37637 .vc_gitem_row .vc_gitem-col,
+.page-id-30883 .vc_gitem_row .vc_gitem-col,
+.page-id-22626 .vc_gitem_row .vc_gitem-col,
+.page-id-627 .vc_gitem_row .vc_gitem-col,
+.page-id-629 .vc_gitem_row .vc_gitem-col,
+.page-id-631 .vc_gitem_row .vc_gitem-col,
+.page-id-172 .vc_gitem_row .vc_gitem-col {
+    background-color: #db153c;
+}
+.page-id-37637 .mobile-menu,
+.page-id-30883 .mobile-menu,
+.page-id-22626 .mobile-menu,
+.page-id-627 .mobile-menu,
+.page-id-629 .mobile-menu,
+.page-id-631 .mobile-menu,
+.page-id-172 .mobile-menu {
+    background: #db153c;
+}
+
+
+/* Orl Appollos */
+
+
+.page-id-637 .woocommerce button.button.alt {
+    background: #072847;
+}
+.page-id-637 .single-product .woocommerce-Price-amount {
+    color: #072847;
+}
+
+.page-id-635 #myTable tr.header {
+    background-color: #f26238;
+}
+.page-id-30891 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-22665 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-633 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-635 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-637 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-174 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline
+{
+    color: #f16138;
+    border-color: #f16138;
+    text-transform: uppercase;
+}
+.page-id-30891 .banner5,
+.page-id-22665 .banner5,
+.page-id-633 .banner5,
+.page-id-635 .banner5,
+.page-id-637 .banner5,
+.page-id-174 .banner5 {
+    display:block !important;
+}
+.page-id-30891 .banner1,
+.page-id-22665 .banner1,
+.page-id-633 .banner1,
+.page-id-635 .banner1,
+.page-id-637 .banner1,
+.page-id-174 .banner1 
+{ display:none !important;}
+.page-id-30891 .site-header .container,
+.page-id-22665 .site-header .container,
+.page-id-633 .site-header .container,
+.page-id-635 .site-header .container,
+.page-id-637 .site-header .container,
+.page-id-174 .site-header .container {
+    background-color: #072847;
+}
+.page-id-30891 .dd-menu > li > a,
+.page-id-22665 .dd-menu > li > a,
+.page-id-633 .dd-menu > li > a,
+.page-id-635 .dd-menu > li > a,
+.page-id-637 .dd-menu > li > a,
+.page-id-174 .dd-menu > li > a {  
+    color: #fff !important;
+     background-color: #072847 !important;
+}
+.page-id-30891 .dd-menu > li > a:hover,
+.page-id-22665 .dd-menu > li > a:hover,
+.page-id-633 .dd-menu > li > a:hover,
+.page-id-635 .dd-menu > li > a:hover,
+.page-id-637 .dd-menu > li > a:hover,
+.page-id-174 .dd-menu > li > a:hover {  
+    color: #fff !important;
+     background-color: #fa5a2a !important;
+}
+.page-id-30891 .dd-menu > li > a:focus,
+.page-id-22665 .dd-menu > li > a:focus,
+.page-id-633 .dd-menu > li > a:focus,
+.page-id-635 .dd-menu > li > a:focus,
+.page-id-637 .dd-menu > li > a:focus,
+.page-id-174 .dd-menu > li > a:focus {  
+    background-color: #072847 !important;
+    color: #fff !important;
+}
+.page-id-30891 h1, .page-id-30891 h2, .page-id-30891 h3, .page-id-30891 h4,
+.page-id-22665 h1, .page-id-22665 h2, .page-id-22665 h3, .page-id-22665 h4,
+.page-id-633 h1, 
+.page-id-633 h2, 
+.page-id-633 h3, 
+.page-id-633 h4,
+.page-id-635 h1, 
+.page-id-635 h2, 
+.page-id-635 h3, 
+.page-id-635 h4,
+.page-id-637 h1, 
+.page-id-637 h2, 
+.page-id-637 h3, 
+.page-id-637 h4,
+.page-id-174 h1, 
+.page-id-174 h2, 
+.page-id-174 h3, 
+.page-id-174 h4 {
+    color: #072847 !important;
+}
+.page-id-30891 .page-banner,
+.page-id-22665 .page-banner,
+.page-id-633 .page-banner,
+.page-id-635 .page-banner,
+.page-id-637 .page-banner,
+.page-id-174 .page-banner {
+    background-color: #fa5a2a !important;
+}
+.page-id-30891 .vc_gitem_row .vc_gitem-col,
+.page-id-22665 .vc_gitem_row .vc_gitem-col,
+.page-id-633 .vc_gitem_row .vc_gitem-col,
+.page-id-635 .vc_gitem_row .vc_gitem-col,
+.page-id-637 .vc_gitem_row .vc_gitem-col,
+.page-id-174 .vc_gitem_row .vc_gitem-col {
+    border-bottom: 4px solid #fa5a2a;
+}
+.page-id-30891 .vc_gitem_row .vc_gitem-col,
+.page-id-22665 .vc_gitem_row .vc_gitem-col,
+.page-id-633 .vc_gitem_row .vc_gitem-col,
+.page-id-635 .vc_gitem_row .vc_gitem-col,
+.page-id-637 .vc_gitem_row .vc_gitem-col,
+.page-id-174 .vc_gitem_row .vc_gitem-col {
+    background-color: #072847;
+}
+.page-id-30891 .mobile-menu,
+.page-id-22665 .mobile-menu,
+.page-id-633 .mobile-menu,
+.page-id-635 .mobile-menu,
+.page-id-637 .mobile-menu,
+.page-id-174 .mobile-menu {
+    background: #072847;
+} 
+
+
+
+/* Arizona style */
+
+
+.page-id-37585 .ad1 {
+    display: none !important;
+}
+
+.page-id-12539 .woocommerce button.button.alt {
+    background: #154734;
+}
+.page-id-12539 .single-product .woocommerce-Price-amount {
+    color: #154734;
+}
+
+.page-id-12541 #myTable tr.header {
+    background-color: #154734;
+}
+
+.page-id-30840 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-22579 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12534 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12541 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12539 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12537 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline
+{
+    color: #154734;
+    border-color: #154734;
+    text-transform: uppercase;
+}
+.page-id-37585 .banner7,
+.page-id-30840 .banner7,
+.page-id-22579 .banner7,
+.page-id-12534 .banner7,
+.page-id-12541 .banner7,
+.page-id-12539 .banner7,
+.page-id-12537 .banner7 {
+    display:block !important;
+}
+.page-id-37585 .banner1,
+.page-id-30840 .banner1,
+.page-id-22579 .banner1,
+.page-id-12534 .banner1,
+.page-id-12541 .banner1,
+.page-id-12539 .banner1,
+.page-id-12537 .banner1 { 
+    display:none !important;
+}
+.page-id-37585 .site-header .container,
+.page-id-30840 .site-header .container,
+.page-id-22579 .site-header .container,
+.page-id-12534 .site-header .container,
+.page-id-12541 .site-header .container,
+.page-id-12539 .site-header .container,
+.page-id-12537 .site-header .container {
+    background-color: #154734;
+}
+.page-id-37585 .dd-menu > li > a,
+.page-id-30840 .dd-menu > li > a,
+.page-id-22579 .dd-menu > li > a,
+.page-id-12534 .dd-menu > li > a,
+.page-id-12541 .dd-menu > li > a,
+.page-id-12539 .dd-menu > li > a,
+.page-id-12537 .dd-menu > li > a {  
+    color: #fff !important;
+    background-color: #154734 !important;
+}
+.page-id-37585 .dd-menu > li > a:hover,
+.page-id-30840 .dd-menu > li > a:hover,
+.page-id-22579 .dd-menu > li > a:hover,
+.page-id-12534 .dd-menu > li > a:hover,
+.page-id-12541 .dd-menu > li > a:hover,
+.page-id-12539 .dd-menu > li > a:hover,
+.page-id-12537 .dd-menu > li > a:hover {  
+    background-color: #073020 !important;
+    color:#fff;
+}
+.page-id-37585 .dd-menu > li > a:focus,
+.page-id-30840 .dd-menu > li > a:focus,
+.page-id-22579 .dd-menu > li > a:focus,
+.page-id-12534 .dd-menu > li > a:focus,
+.page-id-12541 .dd-menu > li > a:focus,
+.page-id-12539 .dd-menu > li > a:focus, 
+.page-id-12537 .dd-menu > li > a:focus {  
+    background-color: #073020 !important;
+    color:#fff;
+}
+.page-id-37585 h1, .page-id-37585 h2, .page-id-37585 h3, .page-id-37585 h4,
+.page-id-30840 h1, .page-id-30840 h2, .page-id-30840 h3, .page-id-30840 h4,
+.page-id-22579 h1, .page-id-22579 h2, .page-id-22579 h3, .page-id-22579 h4,
+.page-id-12534 h1, .page-id-12534 h2, .page-id-12534 h3, .page-id-12534 h4,
+.page-id-12541 h1, 
+.page-id-12541 h2, 
+.page-id-12541 h3, 
+.page-id-12541 h4,
+.page-id-12539 h1, 
+.page-id-12539 h2, 
+.page-id-12539 h3, 
+.page-id-12539 h4,
+.page-id-12537 h1, 
+.page-id-12537 h2, 
+.page-id-12537 h3, 
+.page-id-12537 h4 {
+    color: #154734;
+}
+.page-id-37585 .page-banner,
+.page-id-30840 .page-banner,
+.page-id-22579 .page-banner,
+.page-id-12534 .page-banner,
+.page-id-12541 .page-banner,
+.page-id-12539 .page-banner, 
+.page-id-12537 .page-banner {
+    background-color: #ef4b25;
+}
+.page-id-37585 .vc_gitem_row .vc_gitem-col,
+.page-id-30840 .vc_gitem_row .vc_gitem-col,
+.page-id-22579 .vc_gitem_row .vc_gitem-col,
+.page-id-12534 .vc_gitem_row .vc_gitem-col, 
+.page-id-12541 .vc_gitem_row .vc_gitem-col, 
+.page-id-12539 .vc_gitem_row .vc_gitem-col, 
+.page-id-12537 .vc_gitem_row .vc_gitem-col {
+    border-bottom: 4px solid #ef4b25;
+}
+.page-id-37585 .vc_gitem_row .vc_gitem-col,
+.page-id-30840 .vc_gitem_row .vc_gitem-col,
+.page-id-22579 .vc_gitem_row .vc_gitem-col,
+.page-id-12534 .vc_gitem_row .vc_gitem-col, 
+.page-id-12541 .vc_gitem_row .vc_gitem-col, 
+.page-id-12539 .vc_gitem_row .vc_gitem-col, 
+.page-id-12537 .vc_gitem_row .vc_gitem-col {
+    background-color: #154734;
+}
+.page-id-37585 .mobile-menu,
+.page-id-30840 .mobile-menu,
+.page-id-22579 .mobile-menu,
+.page-id-12534 .mobile-menu,
+.page-id-12541 .mobile-menu,
+.page-id-12539 .mobile-menu, 
+.page-id-12537 .mobile-menu {
+    background: #154734;
+}
+
+/* San Diego style */
+
+
+.page-id-12587 .woocommerce button.button.alt {
+    background: #333F48;
+}
+.page-id-12587 .single-product .woocommerce-Price-amount {
+    color: #333F48;
+}
+
+.page-id-12592 #myTable tr.header {
+    background-color: #333F48;
+}
+.page-id-30917 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-22699 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12585 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12592 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12587 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12595 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline
+{
+    color: #333F48;
+    border-color: #333F48;
+    text-transform: uppercase;
+}
+.page-id-30917 .banner9,
+.page-id-22699 .banner9,
+.page-id-12585 .banner9,
+.page-id-12592 .banner9,
+.page-id-12587 .banner9,
+.page-id-12595 .banner9 {
+    display:block !important;
+}
+.page-id-30917 .banner1,
+.page-id-22699 .banner1,
+.page-id-12585 .banner1,
+.page-id-12592 .banner1,
+.page-id-12587 .banner1,
+.page-id-12595 .banner1 
+{ display:none !important;}
+.page-id-30917 .site-header .container,
+.page-id-22699 .site-header .container,
+.page-id-12585 .site-header .container,
+.page-id-12592 .site-header .container,
+.page-id-12587 .site-header .container,
+.page-id-12595 .site-header .container {
+    background-color: #333F48;
+} 
+.page-id-30917 .dd-menu > li > a,
+.page-id-22699 .dd-menu > li > a,
+.page-id-12585 .dd-menu > li > a,
+.page-id-12592 .dd-menu > li > a,
+.page-id-12587 .dd-menu > li > a,
+.page-id-12595 .dd-menu > li > a {  
+    color: #fff !important;
+    background-color: #333F48 !important;
+}
+.page-id-30917 .dd-menu > li > a:hover,
+.page-id-22699 .dd-menu > li > a:hover,
+.page-id-12585 .dd-menu > li > a:hover,
+.page-id-12592 .dd-menu > li > a:hover,
+.page-id-12587 .dd-menu > li > a:hover,
+.page-id-12595 .dd-menu > li > a:hover {  
+    background-color: #a2a9ad !important;
+    color:#fff;
+}
+.page-id-30917 .dd-menu > li > a:focus,
+.page-id-22699 .dd-menu > li > a:focus,
+.page-id-12585 .dd-menu > li > a:focus,
+.page-id-12592 .dd-menu > li > a:focus,
+.page-id-12587 .dd-menu > li > a:focus, 
+.page-id-12595 .dd-menu > li > a:focus {  
+    background-color: #a2a9ad !important;
+    color:#fff;
+}
+.page-id-30917 h1, .page-id-30917 h2, .page-id-30917 h3, .page-id-30917 h4, 
+.page-id-22699 h1, .page-id-22699 h2, .page-id-22699 h3, .page-id-22699 h4, 
+.page-id-12585 h1, 
+.page-id-12585 h2, 
+.page-id-12585 h3, 
+.page-id-12585 h4,
+.page-id-12592 h1, 
+.page-id-12592 h2, 
+.page-id-12592 h3, 
+.page-id-12592 h4,
+.page-id-12587 h1, 
+.page-id-12587 h2, 
+.page-id-12587 h3, 
+.page-id-12587 h4,
+.page-id-12595 h1, 
+.page-id-12595 h2, 
+.page-id-12595 h3, 
+.page-id-12595 h4 {
+    color: #333F48;
+}
+.page-id-30917 .page-banner,
+.page-id-22699 .page-banner,
+.page-id-12585 .page-banner,
+.page-id-12592 .page-banner,
+.page-id-12587 .page-banner, 
+.page-id-12595 .page-banner {
+    background-color: #fec52e;
+}
+.page-id-30917 .vc_gitem_row .vc_gitem-col, 
+.page-id-22699 .vc_gitem_row .vc_gitem-col, 
+.page-id-12585 .vc_gitem_row .vc_gitem-col, 
+.page-id-12592 .vc_gitem_row .vc_gitem-col, 
+.page-id-12587 .vc_gitem_row .vc_gitem-col, 
+.page-id-12595 .vc_gitem_row .vc_gitem-col {
+    border-bottom: 4px solid #fec52e;
+}
+.page-id-30917 .vc_gitem_row .vc_gitem-col,
+.page-id-22699 .vc_gitem_row .vc_gitem-col,
+.page-id-12585 .vc_gitem_row .vc_gitem-col, 
+.page-id-12592 .vc_gitem_row .vc_gitem-col, 
+.page-id-12587 .vc_gitem_row .vc_gitem-col, 
+.page-id-12595 .vc_gitem_row .vc_gitem-col {
+    background-color: #333F48;
+}
+.page-id-30917 .mobile-menu,
+.page-id-22699 .mobile-menu,
+.page-id-12585 .mobile-menu,
+.page-id-12592 .mobile-menu,
+.page-id-12587 .mobile-menu, 
+.page-id-12595 .mobile-menu {
+    background: #333F48;
+}
+
+/* Salt Lake style */
+
+
+.page-id-12546 .woocommerce button.button.alt {
+    background: #0032A0;
+}
+.page-id-12546 .single-product .woocommerce-Price-amount {
+    color: #0032A0;
+}
+
+.page-id-12557 #myTable tr.header {
+    background-color: #0032A0;
+}
+.page-id-30897 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-22676 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12548 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12557 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12546 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12543 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline
+{
+    color: #0032A0;
+    border-color: #0032A0;
+    text-transform: uppercase;
+}
+.page-id-30897 .banner8,
+.page-id-22676 .banner8,
+.page-id-12548 .banner8,
+.page-id-12557 .banner8,
+.page-id-12546 .banner8,
+.page-id-12543 .banner8 {
+    display:block !important;
+}
+.page-id-30897 .banner1,
+.page-id-22676 .banner1,
+.page-id-12548 .banner1,
+.page-id-12557 .banner1,
+.page-id-12546 .banner1,
+.page-id-12543 .banner1 
+{ display:none !important;}
+.page-id-30897 .site-header .container,
+.page-id-22676 .site-header .container,
+.page-id-12548 .site-header .container,
+.page-id-12557 .site-header .container,
+.page-id-12546 .site-header .container,
+.page-id-12543 .site-header .container {
+    background-color: #0032A0;
+}
+.page-id-30897 .dd-menu > li > a,
+.page-id-22676 .dd-menu > li > a,
+.page-id-12548 .dd-menu > li > a,
+.page-id-12557 .dd-menu > li > a,
+.page-id-12546 .dd-menu > li > a,
+.page-id-12543 .dd-menu > li > a {  
+    color: #fff !important;
+    background-color: #0032A0 !important;
+}
+.page-id-30897 .dd-menu > li > a:hover,
+.page-id-22676 .dd-menu > li > a:hover,
+.page-id-12548 .dd-menu > li > a:hover,
+.page-id-12557 .dd-menu > li > a:hover,
+.page-id-12546 .dd-menu > li > a:hover,
+.page-id-12543 .dd-menu > li > a:hover {  
+    background-color: #3a97cd !important;
+    color:#fff;
+}
+.page-id-30897 .dd-menu > li > a:focus,
+.page-id-22676 .dd-menu > li > a:focus,
+.page-id-12548 .dd-menu > li > a:focus,
+.page-id-12557 .dd-menu > li > a:focus,
+.page-id-12546 .dd-menu > li > a:focus, 
+.page-id-12543 .dd-menu > li > a:focus {  
+    background-color: #3a97cd !important;
+    color:#fff;
+}
+.page-id-30897 h1, .page-id-30897 h2, .page-id-30897 h3, .page-id-30897 h4, 
+.page-id-22676 h1, .page-id-22676 h2, .page-id-22676 h3, .page-id-22676 h4, 
+.page-id-12548 h1, 
+.page-id-12548 h2, 
+.page-id-12548 h3, 
+.page-id-12548 h4,
+.page-id-12557 h1, 
+.page-id-12557 h2, 
+.page-id-12557 h3, 
+.page-id-12557 h4,
+.page-id-12546 h1, 
+.page-id-12546 h2, 
+.page-id-12546 h3, 
+.page-id-12546 h4,
+.page-id-12543 h1, 
+.page-id-12543 h2, 
+.page-id-12543 h3, 
+.page-id-12543 h4 {
+    color: #0032A0;
+}
+.page-id-30897 .page-banner,
+.page-id-22676 .page-banner,
+.page-id-12548 .page-banner,
+.page-id-12557 .page-banner,
+.page-id-12546 .page-banner, 
+.page-id-12543 .page-banner {
+    background-color: #3a97cd;
+}
+.page-id-30897 .vc_gitem_row .vc_gitem-col,
+.page-id-22676 .vc_gitem_row .vc_gitem-col,
+.page-id-12548 .vc_gitem_row .vc_gitem-col, 
+.page-id-12557 .vc_gitem_row .vc_gitem-col, 
+.page-id-12546 .vc_gitem_row .vc_gitem-col, 
+.page-id-12543 .vc_gitem_row .vc_gitem-col {
+    border-bottom: 4px solid #3a97cd;
+}
+.page-id-30897 .vc_gitem_row .vc_gitem-col,
+.page-id-22676 .vc_gitem_row .vc_gitem-col,
+.page-id-12548 .vc_gitem_row .vc_gitem-col, 
+.page-id-12557 .vc_gitem_row .vc_gitem-col, 
+.page-id-12546 .vc_gitem_row .vc_gitem-col, 
+.page-id-12543 .vc_gitem_row .vc_gitem-col {
+    background-color: #0032A0;
+}
+.page-id-30897 .mobile-menu,
+.page-id-22676 .mobile-menu,
+.page-id-12548 .mobile-menu,
+.page-id-12557 .mobile-menu,
+.page-id-12546 .mobile-menu, 
+.page-id-12543 .mobile-menu {
+    background: #0032A0;
+}
+
+
+/* San Antonio style */
+
+
+.page-id-12579 .woocommerce button.button.alt {
+    background: #651C32;
+}
+.page-id-12579 .single-product .woocommerce-Price-amount {
+    color: #651C32;
+}
+
+.page-id-12583 #myTable tr.header {
+    background-color: #651C32;
+}
+.page-id-30910 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-22690 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12581 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12583 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12579 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline,
+.page-id-12562 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline
+{
+    color: #651C32;
+    border-color: #651C32;
+    text-transform: uppercase;
+}
+.page-id-30910 .banner6,
+.page-id-22690 .banner6,
+.page-id-12581 .banner6,
+.page-id-12583 .banner6,
+.page-id-12579 .banner6,
+.page-id-12562 .banner6 {
+    display:block !important;
+}
+.page-id-30910 .banner1,
+.page-id-22690 .banner1,
+.page-id-12581 .banner1,
+.page-id-12583 .banner1,
+.page-id-12579 .banner1,
+.page-id-12562 .banner1 
+{ display:none !important;}
+.page-id-30910 .site-header .container,
+.page-id-22690 .site-header .container,
+.page-id-12581 .site-header .container,
+.page-id-12583 .site-header .container,
+.page-id-12579 .site-header .container,
+.page-id-12562 .site-header .container {
+    background-color: #651C32;
+}
+.page-id-30910 .dd-menu > li > a,
+.page-id-22690 .dd-menu > li > a,
+.page-id-12581 .dd-menu > li > a,
+.page-id-12583 .dd-menu > li > a,
+.page-id-12579 .dd-menu > li > a,
+.page-id-12562 .dd-menu > li > a {  
+    color: #fff !important;
+    background-color: #651C32 !important;
+}
+.page-id-30910 .dd-menu > li > a:hover,
+.page-id-22690 .dd-menu > li > a:hover,
+.page-id-12581 .dd-menu > li > a:hover,
+.page-id-12583 .dd-menu > li > a:hover,
+.page-id-12579 .dd-menu > li > a:hover,
+.page-id-12562 .dd-menu > li > a:hover {  
+    background-color: #d02030 !important;
+    color:#fff;
+}
+.page-id-30910 .dd-menu > li > a:focus,
+.page-id-22690 .dd-menu > li > a:focus,
+.page-id-12581 .dd-menu > li > a:focus,
+.page-id-12583 .dd-menu > li > a:focus,
+.page-id-12579 .dd-menu > li > a:focus, 
+.page-id-12562 .dd-menu > li > a:focus {  
+    background-color: #d02030 !important;
+    color:#fff;
+}
+.page-id-30910 h1, .page-id-30910 h2, .page-id-30910 h3, .page-id-30910 h4,
+.page-id-22690 h1, .page-id-22690 h2, .page-id-22690 h3, .page-id-22690 h4,
+.page-id-12581 h1, 
+.page-id-12581 h2, 
+.page-id-12581 h3, 
+.page-id-12581 h4,
+.page-id-12583 h1, 
+.page-id-12583 h2, 
+.page-id-12583 h3, 
+.page-id-12583 h4,
+.page-id-12579 h1, 
+.page-id-12579 h2, 
+.page-id-12579 h3, 
+.page-id-12579 h4,
+.page-id-12562 h1, 
+.page-id-12562 h2, 
+.page-id-12562 h3, 
+.page-id-12562 h4 {
+    color: #651C32;
+}
+.page-id-30910 .page-banner,
+.page-id-22690 .page-banner,
+.page-id-12581 .page-banner,
+.page-id-12583 .page-banner,
+.page-id-12579 .page-banner, 
+.page-id-12562 .page-banner {
+    background-color: #d02030;
+}
+.page-id-30910 .vc_gitem_row .vc_gitem-col,
+.page-id-22690 .vc_gitem_row .vc_gitem-col,
+.page-id-12581 .vc_gitem_row .vc_gitem-col, 
+.page-id-12583 .vc_gitem_row .vc_gitem-col, 
+.page-id-12579 .vc_gitem_row .vc_gitem-col, 
+.page-id-12562 .vc_gitem_row .vc_gitem-col {
+    border-bottom: 4px solid #d02030;
+}
+.page-id-30910 .vc_gitem_row .vc_gitem-col, 
+.page-id-22690 .vc_gitem_row .vc_gitem-col, 
+.page-id-12581 .vc_gitem_row .vc_gitem-col, 
+.page-id-12583 .vc_gitem_row .vc_gitem-col, 
+.page-id-12579 .vc_gitem_row .vc_gitem-col, 
+.page-id-12562 .vc_gitem_row .vc_gitem-col {
+    background-color: #651C32;
+}
+.page-id-30910 .mobile-menu,
+.page-id-22690 .mobile-menu,
+.page-id-12581 .mobile-menu,
+.page-id-12583 .mobile-menu,
+.page-id-12579 .mobile-menu, 
+.page-id-12562 .mobile-menu {
+    background: #651C32;
+}</style>
+<style type="text/css" data-type="vc_shortcodes-custom-css-625">.vc_custom_1536946934715{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 10px !important;padding-right: 10px !important;padding-bottom: 10px !important;padding-left: 10px !important;background-color: #f2f2f2 !important;border-left-color: #dbdbdb !important;border-left-style: solid !important;border-right-color: #dbdbdb !important;border-right-style: solid !important;border-top-color: #dbdbdb !important;border-top-style: solid !important;border-bottom-color: #dbdbdb !important;border-bottom-style: solid !important;}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://aaf.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://aaf.com/wp-content/uploads/2018/09/AAF-icon-2.png" sizes="32x32" />
+<link rel="icon" href="https://aaf.com/wp-content/uploads/2018/09/AAF-icon-2.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://aaf.com/wp-content/uploads/2018/09/AAF-icon-2.png" />
+<meta name="msapplication-TileImage" content="https://aaf.com/wp-content/uploads/2018/09/AAF-icon-2.png" />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<style type="text/css" title="dynamic-css" class="options-output">.content{padding-top:60px;padding-bottom:60px;}.site-header{background-color:#002b63;}.page-banner-image .page-banner-text h1, .page-banner-image .page-banner-text p, .page-banner-image .breadcrumb, .page-banner-image .breadcrumb a{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .page-banner-image .page-banner-text h1,.wf-loading  .page-banner-image .page-banner-text p,.wf-loading  .page-banner-image .breadcrumb,.wf-loading  .page-banner-image .breadcrumb a{opacity: 0;}.ie.wf-loading .page-banner-image .page-banner-text h1,.ie.wf-loading  .page-banner-image .page-banner-text p,.ie.wf-loading  .page-banner-image .breadcrumb,.ie.wf-loading  .page-banner-image .breadcrumb a{visibility: hidden;}.topbar .secondary-menu > ul > li > a{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .topbar .secondary-menu > ul > li > a{opacity: 0;}.ie.wf-loading .topbar .secondary-menu > ul > li > a{visibility: hidden;}.site-logo{margin-top:5px;margin-bottom:5px;}.dd-menu > li > a, .search-module-trigger, .cart-module-trigger{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .dd-menu > li > a,.wf-loading  .search-module-trigger,.wf-loading  .cart-module-trigger{opacity: 0;}.ie.wf-loading .dd-menu > li > a,.ie.wf-loading  .search-module-trigger,.ie.wf-loading  .cart-module-trigger{visibility: hidden;}.header-style1 .dd-menu > li > a, .header-style2 .dd-menu > li > a, .header-style3 .dd-menu > li > a, .header-style4 .dd-menu > li > a{color:#ffffff;}.header-style1 .dd-menu > li > a:hover, .header-style2 .dd-menu > li > a:hover, .header-style3 .dd-menu > li > a:hover, .header-style4 .dd-menu > li > a:hover{color:#dddddd;}.header-style1 .dd-menu > li > a:active, .header-style2 .dd-menu > li > a:active, .header-style3 .dd-menu > li > a:active, .header-style4 .dd-menu > li > a:active{color:#ffffff;}.dd-menu > li > ul > li > a, .dd-menu > li > ul > li > ul > li > a, .dd-menu > li > ul > li > ul > li > ul > li > a{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .dd-menu > li > ul > li > a,.wf-loading  .dd-menu > li > ul > li > ul > li > a,.wf-loading  .dd-menu > li > ul > li > ul > li > ul > li > a{opacity: 0;}.ie.wf-loading .dd-menu > li > ul > li > a,.ie.wf-loading  .dd-menu > li > ul > li > ul > li > a,.ie.wf-loading  .dd-menu > li > ul > li > ul > li > ul > li > a{visibility: hidden;}.dd-menu .megamenu-container .megamenu-sub-title, .dd-menu .megamenu-container .widget .widgettitle, .dd-menu .megamenu-container .widget .widget-title{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .dd-menu .megamenu-container .megamenu-sub-title,.wf-loading  .dd-menu .megamenu-container .widget .widgettitle,.wf-loading  .dd-menu .megamenu-container .widget .widget-title{opacity: 0;}.ie.wf-loading .dd-menu .megamenu-container .megamenu-sub-title,.ie.wf-loading  .dd-menu .megamenu-container .widget .widgettitle,.ie.wf-loading  .dd-menu .megamenu-container .widget .widget-title{visibility: hidden;}.dd-menu .megamenu-container{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .dd-menu .megamenu-container{opacity: 0;}.ie.wf-loading .dd-menu .megamenu-container{visibility: hidden;}.mmenu-toggle{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .mmenu-toggle{opacity: 0;}.ie.wf-loading .mmenu-toggle{visibility: hidden;}.mobile-menu .dd-menu > li > a, .mobile-menu .dd-menu > li > ul > li > a, .mobile-menu .dd-menu > li > ul > li > ul > li > a, .mobile-menu .dd-menu > li > a:hover, .mobile-menu .dd-menu > li:hover > a{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .mobile-menu .dd-menu > li > a,.wf-loading  .mobile-menu .dd-menu > li > ul > li > a,.wf-loading  .mobile-menu .dd-menu > li > ul > li > ul > li > a,.wf-loading  .mobile-menu .dd-menu > li > a:hover,.wf-loading  .mobile-menu .dd-menu > li:hover > a{opacity: 0;}.ie.wf-loading .mobile-menu .dd-menu > li > a,.ie.wf-loading  .mobile-menu .dd-menu > li > ul > li > a,.ie.wf-loading  .mobile-menu .dd-menu > li > ul > li > ul > li > a,.ie.wf-loading  .mobile-menu .dd-menu > li > a:hover,.ie.wf-loading  .mobile-menu .dd-menu > li:hover > a{visibility: hidden;}.footer_widget h4.widgettitle, .footer_widget h4.widget-title{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .footer_widget h4.widgettitle,.wf-loading  .footer_widget h4.widget-title{opacity: 0;}.ie.wf-loading .footer_widget h4.widgettitle,.ie.wf-loading  .footer_widget h4.widget-title{visibility: hidden;}.site-footer .footer_widget{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .site-footer .footer_widget{opacity: 0;}.ie.wf-loading .site-footer .footer_widget{visibility: hidden;}.site-footer-bottom{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .site-footer-bottom{opacity: 0;}.ie.wf-loading .site-footer-bottom{visibility: hidden;}.social-share-bar .share-title{line-height:30px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .social-share-bar .share-title{opacity: 0;}.ie.wf-loading .social-share-bar .share-title{visibility: hidden;}.social-share-bar li a{height:30px;width:30px;}.social-share-bar li a{line-height:30px;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .social-share-bar li a{opacity: 0;}.ie.wf-loading .social-share-bar li a{visibility: hidden;}h1,h2,h3,h4,h5,h6,blockquote,.dd-menu .megamenu-container .megamenu-sub-title{font-family:Poppins;font-weight:300;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h1,.wf-loading h2,.wf-loading h3,.wf-loading h4,.wf-loading h5,.wf-loading h6,.wf-loading blockquote,.wf-loading .dd-menu .megamenu-container .megamenu-sub-title{opacity: 0;}.ie.wf-loading h1,.ie.wf-loading h2,.ie.wf-loading h3,.ie.wf-loading h4,.ie.wf-loading h5,.ie.wf-loading h6,.ie.wf-loading blockquote,.ie.wf-loading .dd-menu .megamenu-container .megamenu-sub-title{visibility: hidden;}body{font-family:Rubik,Arial, Helvetica, sans-serif;font-weight:300;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body{opacity: 0;}.ie.wf-loading body{visibility: hidden;}.date, .project-categories, .team-position, .comments li .meta-data{font-family:Rubik,Arial, Helvetica, sans-serif;font-weight:normal;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .date,.wf-loading  .project-categories,.wf-loading  .team-position,.wf-loading  .comments li .meta-data{opacity: 0;}.ie.wf-loading .date,.ie.wf-loading  .project-categories,.ie.wf-loading  .team-position,.ie.wf-loading  .comments li .meta-data{visibility: hidden;}body{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body{opacity: 0;}.ie.wf-loading body{visibility: hidden;}h1{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h1{opacity: 0;}.ie.wf-loading h1{visibility: hidden;}h2{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h2{opacity: 0;}.ie.wf-loading h2{visibility: hidden;}h3{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h3{opacity: 0;}.ie.wf-loading h3{visibility: hidden;}h4{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h4{opacity: 0;}.ie.wf-loading h4{visibility: hidden;}h5{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h5{opacity: 0;}.ie.wf-loading h5{visibility: hidden;}h6{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h6{opacity: 0;}.ie.wf-loading h6{visibility: hidden;}.nowhere-font{font-family:Volkhov;font-weight:400;font-style:italic;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .nowhere-font{opacity: 0;}.ie.wf-loading .nowhere-font{visibility: hidden;}.nowhere-font{font-family:Roboto;font-weight:700;font-style:normal;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .nowhere-font{opacity: 0;}.ie.wf-loading .nowhere-font{visibility: hidden;}.nowhere-font{font-family:Roboto;font-weight:400;font-style:normal;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .nowhere-font{opacity: 0;}.ie.wf-loading .nowhere-font{visibility: hidden;}.nowhere-font{font-family:Poppins;font-weight:700;font-style:normal;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .nowhere-font{opacity: 0;}.ie.wf-loading .nowhere-font{visibility: hidden;}.nowhere-font{font-family:Poppins;font-weight:500;font-style:normal;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .nowhere-font{opacity: 0;}.ie.wf-loading .nowhere-font{visibility: hidden;}.nowhere-font{opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .nowhere-font{opacity: 0;}.ie.wf-loading .nowhere-font{visibility: hidden;}.error404 .page-banner-text div{height:500px;}.error404 .page-banner-text h1{color:transparent;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1536946934715{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 10px !important;padding-right: 10px !important;padding-bottom: 10px !important;padding-left: 10px !important;background-color: #f2f2f2 !important;border-left-color: #dbdbdb !important;border-left-style: solid !important;border-right-color: #dbdbdb !important;border-right-style: solid !important;border-top-color: #dbdbdb !important;border-top-style: solid !important;border-bottom-color: #dbdbdb !important;border-bottom-style: solid !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<!-- Google Code for AAF -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '237320440288945');
+fbq('set','agent','tmgoogletagmanager', '237320440288945');
+fbq('track', "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=237320440288945&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+	
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWB7N44');</script>
+<!-- End Google Tag Manager -->
+</head>
+<!--// CLOSE HEAD //-->
+<body class="page-template-default page page-id-625 page-child parent-pageid-170 woocommerce-no-js  header-style4 wpb-js-composer js-comp-ver-5.5.2 vc_responsive">
+<style type="text/css">.hero-area{display:block;}.social-share-bar{display:block;}.page-banner h1, .page-banner-text{display:block;}.page-banner h1 .breadcrumb{display:block;}.page-banner h1 .breadcrumb{display:block;}.page-banner-image::before{opacity:1;}.content{padding-top:60px;padding-bottom:60px;}body.boxed{}
+		.content{}</style><div class="body"> 
+	<header class="topbar">
+    	<div class="container">
+            <div class="row">
+              <div class="col-md-6 col-sm-6">
+                <nav class="secondary-menu topbar-social">
+                  <ul class="pull-left">
+                                      </ul>
+                </nav>
+              </div>
+              <div class="col-md-6 col-sm-6">
+                <nav class="secondary-menu">
+                                  </nav>
+              </div>
+            </div>
+          </div>
+        </header>
+               
+  <!-- Start Header -->
+  <header class="site-header">
+	  <div class="league-nav">
+          <div class="leage-logo"><a href="https://aaf.com/"><img src="/wp-content/uploads/2018/09/AAF-Logo1x.png" style="height: 30px;"></a></div>
+		  <div class="welcome-text">Birmingham Iron Team Page | AAF.com - Roster          </div>
+	  </div>
+	 <button class="mmenu-toggle"><i class="fa fa-bars fa-lg"></i></button>
+    <div class="logo-wrapper">
+      <div class="container">
+        
+		  
+        <div class="site-logo">
+		            <a href="#" class="default-logo"><img src="https://aaf.com/wp-content/uploads/2018/09/BirmX1.png" alt="Alliance of American Football"></a>
+            <a href="#" class="default-retina-logo"><img src="https://aaf.com/wp-content/uploads/2018/09/BirmX2.png" alt="Alliance of American Football" width="125" height="55"></a>
+                    </div>
+		    <div class="main-menu">
+            <ul id="menu-bermingham-iron" class="sf-menu dd-menu"><li  class="menu-item-665 menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent "><a href="https://aaf.com/birmingham-iron/"><span>Home<span class="nav-line"></span></span></a><li  class="menu-item-476 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children "><a href="https://aaf.com/teams/"><span>Teams<span class="nav-line"></span></span></a>
+<ul class="sub-menu">
+	<li  class="menu-item-13211 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/arizona-hotshots/"><span>Arizona Hotshots</span></a>	<li  class="menu-item-477 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/atlanta-legends/"><span>Atlanta Legends</span></a>	<li  class="menu-item-478 menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent "><a href="https://aaf.com/birmingham-iron/"><span>Birmingham Iron</span></a>	<li  class="menu-item-479 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/memphis-express/"><span>Memphis Express</span></a>	<li  class="menu-item-480 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/orlando-apollos/"><span>Orlando Apollos</span></a>	<li  class="menu-item-13214 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/salt-lake-stallions/"><span>Salt Lake Stallions</span></a>	<li  class="menu-item-13213 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/san-antonio-commanders/"><span>San Antonio Commanders</span></a>	<li  class="menu-item-13212 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/san-diego-fleet/"><span>San Diego Fleet</span></a></ul>
+<li  class="menu-item-662 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/birmingham-iron/tickets/"><span>Tickets<span class="nav-line"></span></span></a><li  class="menu-item-664 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/birmingham-iron/news/"><span>News<span class="nav-line"></span></span></a><li  class="menu-item-663 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-625 current_page_item "><a href="https://aaf.com/birmingham-iron/roster/"><span>Roster<span class="nav-line"></span></span></a><li  class="menu-item-22623 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/birmingham-iron/schedule/"><span>Schedule<span class="nav-line"></span></span></a><li  class="menu-item-490 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/jobs/"><span>Join<span class="nav-line"></span></span></a><li  class="menu-item-17333 menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="https://aaf.com/product-category/birmingham-iron/"><span>Shop<span class="nav-line"></span></span></a><li  class="menu-item-31625 menu-item menu-item-type-post_type menu-item-object-page "><a href="https://aaf.com/birmingham-iron/contact/"><span>Contact<span class="nav-line"></span></span></a></ul>          </div>
+      </div>
+    </div>
+    <div id="sticky-nav">
+      <div class="container">
+            <nav class="social-icons-colored pull-right">
+                <ul class="social-icons">
+                	                </ul>
+               </nav>
+      </div>
+    </div>
+    <nav class="mobile-menu">
+      <div class="container">
+        <div class="row"></div>
+      </div>
+    </nav>
+  </header>
+ <div class="ad1">
+		  <div class="ad-wrapper">
+			  <div id="custom_html-4" class="widget_text widget sidebar-widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="banners">
+<div class="banner1">
+	<a href="/tickets/"><img src="https://aaf.com/wp-content/uploads/2018/10/ST_banner-AAF-1.jpg" alt=""></a>
+</div>
+<div class="banner2">
+	<a href="https://oss.ticketmaster.com/aps/birminghamiron/EN/link/buy/details/19BIFULL"><img src="https://aaf.com/wp-content/uploads/2018/10/ST_banner-BM-1.jpg" alt=""></a>
+</div>
+<div class="banner3">
+	<a href="https://oss.ticketmaster.com/aps/atlantalegends/EN/link/buy/details/19ALFULL"><img src="https://aaf.com/wp-content/uploads/2018/10/ST_banner-ATL-1.jpg" alt=""></a>
+</div>
+<div class="banner4">
+	<a href="https://oss.ticketmaster.com/aps/memphisexpress/EN/link/buy/details/19MEFULL"><img src="https://aaf.com/wp-content/uploads/2018/10/ST_banner-MEM-1.jpg" alt=""></a>
+</div>
+<div class="banner5">
+	<a href="https://oss.ticketmaster.com/aps/orlandoapollos/EN/link/buy/details/19OAFULL"><img src="https://aaf.com/wp-content/uploads/2018/10/ST_banner-ORL-1.jpg" alt=""></a>
+</div>
+	<div class="banner6">
+	<a href="https://oss.ticketmaster.com/aps/sacommanders/EN/link/buy/details/19SCFULL"><img src="https://aaf.com/wp-content/uploads/2018/10/ST_banner-SA-1.jpg" alt=""></a>
+</div>
+<div class="banner7">
+	<a href="https://oss.ticketmaster.com/aps/azhotshots/EN/link/buy/details/19AHFULL"><img src="https://aaf.com/wp-content/uploads/2018/10/ST_banner-AZ-1.jpg" alt=""></a>
+</div>
+<div class="banner8">
+	<a href="https://ticketing.axs.com/Home.aspx?I=ZhmDAAAAAAAbqr84AwAAAACo%2fv%2f%2f%2fwhTVEFMTElPTv%2f%2f%2f%2f8Jc21pdGhzdGl4AP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f"><img src="https://aaf.com/wp-content/uploads/2018/10/ST_banner-SLC-1.jpg" alt=""></a>
+</div>
+<div class="banner9">
+	<a href="https://oss.ticketmaster.com/aps/sdfleet/EN/link/buy/details/19SFFULL"><img src="https://aaf.com/wp-content/uploads/2018/10/ST_banner-SD-1.jpg" alt=""></a>
+</div>
+</div></div></div>		  </div>
+	  </div>
+  <!-- End Header --> 
+ <div class="hero-area">
+ <div class="page-banner" style="background-color:; height:20px;">
+	 <div class="container">
+            	<div class="page-banner-text"><div style="height:20px;"><div>        			<h1>Welcome to the Official Birmingham Iron &#8211; Roster</h1>
+                                                                <ol class="breadcrumb">
+                            <!-- Breadcrumb NavXT 6.2.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Alliance of American Football." href="https://aaf.com" class="home"><span property="name">Alliance of American Football</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Welcome to the Official Birmingham Iron Page." href="https://aaf.com/birmingham-iron/" class="post post-page"><span property="name">Welcome to the Official Birmingham Iron Page</span></a><meta property="position" content="2"></span> &gt; Welcome to the Official Birmingham Iron &#8211; Roster                        </ol>
+                                    </div></div></div>
+            </div>
+        </div>
+    </div><!-- Start Body Content -->
+<div id="main-container">
+  	<div class="content">
+   		<div class="container">
+       		<div class="row">
+            	<div class="col-md-12" id="content-col">
+            		<div class="post-content"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h1 style="text-align: center;">Birmingham Iron Roster</h1>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_tta-container" data-vc-action="collapse"><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-grey vc_tta-style-classic vc_tta-shape-rounded vc_tta-spacing-1 vc_tta-tabs-position-top vc_tta-controls-align-left"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab><a href="#1536946668358-8995fcfe-09f75f31-316f" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">PLAYERS</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1536946668373-7309ccd8-5a685f31-316f" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">STAFF</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1536946673886-3aa739ca-7a1a5f31-316f" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">TRANSACTIONS</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="1536946668358-8995fcfe-09f75f31-316f" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1536946668358-8995fcfe-09f75f31-316f" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">PLAYERS</span></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<table id="myTable" style="height: 1618px;">
+<tbody>
+<tr class="header" style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Player</td>
+<td style="height: 24px; width: 56.921875px;">Position</td>
+<td style="height: 24px; width: 182.3125px;">College</td>
+</tr>
+<tr style="height: 10px;">
+<td style="height: 10px; width: 159.890625px;">Adams, Nelson</td>
+<td style="height: 10px; width: 56.921875px;">DE</td>
+<td style="height: 10px; width: 182.3125px;">Mississippi State</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Addison,Brandun</td>
+<td style="width: 56.921875px;">DB</td>
+<td style="width: 182.3125px;">Gardner-Webb</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Adeoye, Aaron</td>
+<td style="height: 24px; width: 56.921875px;">DE</td>
+<td style="height: 24px; width: 182.3125px;">Southeast Missouri State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Barge, Josh</td>
+<td style="height: 24px; width: 56.921875px;">WR</td>
+<td style="height: 24px; width: 182.3125px;">Jacksonville State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Barnes, Brandon</td>
+<td style="height: 24px; width: 56.921875px;">TE</td>
+<td style="height: 24px; width: 182.3125px;">Alabama State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Beckwith, Marquell</td>
+<td style="height: 24px; width: 56.921875px;">RB</td>
+<td style="height: 24px; width: 182.3125px;">Troy</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Black, Chris</td>
+<td style="height: 24px; width: 56.921875px;">WR</td>
+<td style="height: 24px; width: 182.3125px;">Alabama</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Bowman, Braedon</td>
+<td style="width: 56.921875px;">TE</td>
+<td style="width: 182.3125px;">South Alabama</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Boyd, Josh</td>
+<td style="height: 24px; width: 56.921875px;">DT</td>
+<td style="height: 24px; width: 182.3125px;">Mississippi State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Brantley, Harold</td>
+<td style="height: 24px; width: 56.921875px;">DT</td>
+<td style="height: 24px; width: 182.3125px;">Northwest Missouri State</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Bray, Quan</td>
+<td style="width: 56.921875px;">WR</td>
+<td style="width: 182.3125px;">Auburn</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Brown, Beniquez</td>
+<td style="height: 24px; width: 56.921875px;">LB</td>
+<td style="height: 24px; width: 182.3125px;">Mississippi State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Brown, Darrell</td>
+<td style="height: 24px; width: 56.921875px;">T</td>
+<td style="height: 24px; width: 182.3125px;">Louisiana Tech</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Brown, Leon</td>
+<td style="width: 56.921875px;">G</td>
+<td style="width: 182.3125px;">Alabama</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Bryant, Christian</td>
+<td style="height: 24px; width: 56.921875px;">DB</td>
+<td style="height: 24px; width: 182.3125px;">Ohio State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Campbell, Elijah</td>
+<td style="height: 24px; width: 56.921875px;">DB</td>
+<td style="height: 24px; width: 182.3125px;">Northern Iowa</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Carlisle, Amir</td>
+<td style="height: 24px; width: 56.921875px;">WR</td>
+<td style="height: 24px; width: 182.3125px;">Notre Dame</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Coprich, Marshaun</td>
+<td style="height: 24px; width: 56.921875px;">RB</td>
+<td style="height: 24px; width: 182.3125px;">Illinois State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Cox, Aaron</td>
+<td style="height: 24px; width: 56.921875px;">C</td>
+<td style="height: 24px; width: 182.3125px;">Grand Valley State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Dallas, Jackson</td>
+<td style="height: 24px; width: 56.921875px;">C</td>
+<td style="height: 24px; width: 182.3125px;">Portland State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Davis, Chris</td>
+<td style="height: 24px; width: 56.921875px;">DB</td>
+<td style="height: 24px; width: 182.3125px;">Auburn</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Davis, Connor</td>
+<td style="height: 24px; width: 56.921875px;">TE</td>
+<td style="height: 24px; width: 182.3125px;">Stony Brook</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Dickson, Xzavier</td>
+<td style="width: 56.921875px;">LB</td>
+<td style="width: 182.3125px;">Alabama</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Durr, Lashard</td>
+<td style="height: 24px; width: 56.921875px;">DB</td>
+<td style="height: 24px; width: 182.3125px;">Mississippi State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Edwards, Allen</td>
+<td style="height: 24px; width: 56.921875px;">DE</td>
+<td style="height: 24px; width: 182.3125px;">Pittsburgh</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Etta-Tawo, Amba</td>
+<td style="width: 56.921875px;">WR</td>
+<td style="width: 182.3125px;">Maryland</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Faulk, Jeremy</td>
+<td style="width: 56.921875px;">DT</td>
+<td style="width: 182.3125px;">Garden City CC</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Felton, DeVozea</td>
+<td style="height: 24px; width: 56.921875px;">WR</td>
+<td style="height: 24px; width: 182.3125px;">Tuskegee</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Garcia, Stephen</td>
+<td style="height: 24px; width: 56.921875px;">QB</td>
+<td style="height: 24px; width: 182.3125px;">South Carolina</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Gibbs, John</td>
+<td style="height: 24px; width: 56.921875px;">QB</td>
+<td style="height: 24px; width: 182.3125px;">Alcorn State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Graham, Larson</td>
+<td style="height: 24px; width: 56.921875px;">T</td>
+<td style="height: 24px; width: 182.3125px;">Duquesne</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Greene, Brandon</td>
+<td style="width: 56.921875px;">T</td>
+<td style="width: 182.3125px;">Alabama</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Hagen, Jacob</td>
+<td style="height: 24px; width: 56.921875px;">DB</td>
+<td style="height: 24px; width: 182.3125px;">Liberty</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Hassenauer, J.C.</td>
+<td style="width: 56.921875px;">C</td>
+<td style="width: 182.3125px;">Alabama</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Hatley, Rickey</td>
+<td style="width: 56.921875px;">DT</td>
+<td style="width: 182.3125px;">Missouri</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Howell, Tyler</td>
+<td style="height: 24px; width: 56.921875px;">T</td>
+<td style="height: 24px; width: 182.3125px;">Missouri</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Isaac, Ty</td>
+<td style="height: 24px; width: 56.921875px;">RB</td>
+<td style="height: 24px; width: 182.3125px;">Michigan</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Jackson, Dominick</td>
+<td style="height: 24px; width: 56.921875px;">T</td>
+<td style="height: 24px; width: 182.3125px;">Alabama</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">James, Nick</td>
+<td style="height: 24px; width: 56.921875px;">DT</td>
+<td style="height: 24px; width: 182.3125px;">Mississippi State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Jenkins, Eli</td>
+<td style="height: 24px; width: 56.921875px;">QB</td>
+<td style="height: 24px; width: 182.3125px;">Jacksonville State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Johnson, Shane</td>
+<td style="height: 24px; width: 56.921875px;">LB</td>
+<td style="height: 24px; width: 182.3125px;">Coastal Carolina</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">King, Jason</td>
+<td style="height: 24px; width: 56.921875px;">G</td>
+<td style="height: 24px; width: 182.3125px;">Purdue</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Kirven, Korren</td>
+<td style="height: 24px; width: 56.921875px;">T</td>
+<td style="height: 24px; width: 182.3125px;">Alabama</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Lee, Sam</td>
+<td style="height: 24px; width: 56.921875px;">G</td>
+<td style="height: 24px; width: 182.3125px;">Augustana</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Leslie, Darnell</td>
+<td style="height: 24px; width: 56.921875px;">LB</td>
+<td style="height: 24px; width: 182.3125px;">Monmouth</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Massaquoi, Jonathan</td>
+<td style="height: 24px; width: 56.921875px;">LB</td>
+<td style="height: 24px; width: 182.3125px;">Troy</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Nitti, R.J.</td>
+<td style="height: 24px; width: 56.921875px;">QB</td>
+<td style="height: 24px; width: 182.3125px;">Bucknell</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Novak, Nick</td>
+<td style="height: 24px; width: 56.921875px;">K</td>
+<td style="height: 24px; width: 182.3125px;">Maryland</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">O&#8217;Brien, Kitt</td>
+<td style="height: 24px; width: 56.921875px;">G</td>
+<td style="height: 24px; width: 182.3125px;">Ball State</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Okaye, Lawrence</td>
+<td style="width: 56.921875px;">DT</td>
+<td style="width: 182.3125px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Outlaw, Lonnie</td>
+<td style="height: 24px; width: 56.921875px;">WR</td>
+<td style="height: 24px; width: 182.3125px;">Miles</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Payne, Jake</td>
+<td style="height: 24px; width: 56.921875px;">DE</td>
+<td style="height: 24px; width: 182.3125px;">Shenandoah</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Penton, Aarion</td>
+<td style="height: 24px; width: 56.921875px;">DB</td>
+<td style="height: 24px; width: 182.3125px;">Missouri</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Perez, Luis</td>
+<td style="width: 56.921875px;">QB</td>
+<td style="width: 182.3125px;">Texas A&amp;M-Commerce</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Powell, Ike</td>
+<td style="height: 24px; width: 56.921875px;">LS</td>
+<td style="height: 24px; width: 182.3125px;">Auburn</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Powell, Jonathan</td>
+<td style="height: 24px; width: 56.921875px;">TE</td>
+<td style="height: 24px; width: 182.3125px;">Ouachita Baptist</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Redfield, Max</td>
+<td style="height: 24px; width: 56.921875px;">DB</td>
+<td style="height: 24px; width: 182.3125px;">Indiana (PA)</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Richardson, Trent</td>
+<td style="height: 24px; width: 56.921875px;">RB</td>
+<td style="height: 24px; width: 182.3125px;">Alabama</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Robinson, Jamal</td>
+<td style="height: 24px; width: 56.921875px;">WR</td>
+<td style="height: 24px; width: 182.3125px;">Louisiana-Lafayette</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Ross, Brandon</td>
+<td style="height: 24px; width: 56.921875px;">RB</td>
+<td style="height: 24px; width: 182.3125px;">Maryland</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Rowzee, Steven</td>
+<td style="height: 24px; width: 56.921875px;">G</td>
+<td style="height: 24px; width: 182.3125px;">Troy</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Salmon, Shaheed</td>
+<td style="height: 24px; width: 56.921875px;">LB</td>
+<td style="height: 24px; width: 182.3125px;">Samford</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Sawyer, Dante</td>
+<td style="height: 24px; width: 56.921875px;">DE</td>
+<td style="height: 24px; width: 182.3125px;">South Carolina</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Sayles, Casey</td>
+<td style="height: 24px; width: 56.921875px;">DT</td>
+<td style="height: 24px; width: 182.3125px;">Ohio</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Saxton, Wes</td>
+<td style="width: 56.921875px;">TE</td>
+<td style="width: 182.3125px;">South Alabama</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Schleuger, Chris</td>
+<td style="width: 56.921875px;">G</td>
+<td style="width: 182.3125px;">Alabama-Birmingham</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Seither, Nick</td>
+<td style="height: 24px; width: 56.921875px;">DE</td>
+<td style="height: 24px; width: 182.3125px;">Georgetown College (KY)</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Shepherd, JaCorey</td>
+<td style="height: 24px; width: 56.921875px;">DB</td>
+<td style="height: 24px; width: 182.3125px;">Kansas</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Shortell, Max</td>
+<td style="height: 24px; width: 56.921875px;">QB</td>
+<td style="height: 24px; width: 182.3125px;">Jacksonville State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Sims, Blake</td>
+<td style="height: 24px; width: 56.921875px;">QB</td>
+<td style="height: 24px; width: 182.3125px;">Alabama</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Skinner, Deontae</td>
+<td style="height: 24px; width: 56.921875px;">LB</td>
+<td style="height: 24px; width: 182.3125px;">Mississippi State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Spearman, Ike</td>
+<td style="height: 24px; width: 56.921875px;">LB</td>
+<td style="height: 24px; width: 182.3125px;">Eastern Michigan</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Summers, Jamar</td>
+<td style="width: 56.921875px;">DB</td>
+<td style="width: 182.3125px;">Connecticut</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Sylve, Bradley</td>
+<td style="height: 24px; width: 56.921875px;">DB</td>
+<td style="height: 24px; width: 182.3125px;">Alabama</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Taylor, Devin</td>
+<td style="width: 56.921875px;">DE</td>
+<td style="width: 182.3125px;">South Carolina</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Therezie, Robenson</td>
+<td style="width: 56.921875px;">DB</td>
+<td style="width: 182.3125px;">Auburn</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Tolzien, Scott</td>
+<td style="width: 56.921875px;">QB</td>
+<td style="width: 182.3125px;">Wisconsin</td>
+</tr>
+<tr>
+<td style="width: 159.890625px;">Torgersen, Alek</td>
+<td style="width: 56.921875px;">QB</td>
+<td style="width: 182.3125px;">Pennsylvania</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Washington, L&#8217;Damian</td>
+<td style="height: 24px; width: 56.921875px;">WR</td>
+<td style="height: 24px; width: 182.3125px;">Missouri</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Wells, Matthew</td>
+<td style="height: 24px; width: 56.921875px;">LB</td>
+<td style="height: 24px; width: 182.3125px;">Mississippi State</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">White, Ryan</td>
+<td style="height: 24px; width: 56.921875px;">DB</td>
+<td style="height: 24px; width: 182.3125px;">Auburn</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 159.890625px;">Wright, Garrison</td>
+<td style="height: 24px; width: 56.921875px;">G</td>
+<td style="height: 24px; width: 182.3125px;">Minnesota</td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div><div class="vc_tta-panel" id="1536946668373-7309ccd8-5a685f31-316f" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1536946668373-7309ccd8-5a685f31-316f" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">STAFF</span></a></h4></div><div class="vc_tta-panel-body"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1536946934715 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_fadeIn fadeIn">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="561" src="https://aaf.com/wp-content/uploads/2018/09/TimLewis.jpg" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3>TIM LEWIS</h3>
+<h3>Head Coach, Birmingham Iron</h3>
+<p>Tim Lewis was a standout cornerback at the University of Pittsburgh from 1979-1982. His senior year he was named an NEA All-American and Defensive MVP of both the Senior Bowl and the East-West Shrine games. In 1983, the Packers chose Lewis with the 11th overall selection in the NFL Draft.</p>
+<p>Lewis played 52 games for the Packers, twice led or shared the team lead in interceptions and finished his career with 16 interceptions. His 99-yard interception return for a touchdown against the Rams in 1984 is still the Packers&#8217; team record. In his third game of the 1986 season, a Monday night contest against the Chicago Bears in Lambeau Field, Lewis suffered a career-ending neck injury. He began his coaching career the following year, first as a graduate assistant coach at Texas A&amp;M, followed by assistant roles at SMU and his alma mater, University of Pittsburgh.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-panel" id="1536946673886-3aa739ca-7a1a5f31-316f" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1536946673886-3aa739ca-7a1a5f31-316f" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">TRANSACTIONS</span></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3>Coming Soon</h3>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3 style="text-align: left;">FOLLOW US</h3>
+
+		</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_btn3-container vc_btn3-center" >
+	<a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-square vc_btn3-style-outline vc_btn3-block vc_btn3-icon-left vc_btn3-color-grey" href="http://www.facebook.com/AAFIron" title="" target="_blank"><i class="vc_btn3-icon fa fa-facebook"></i> Facebook</a></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_btn3-container vc_btn3-center" >
+	<a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-square vc_btn3-style-outline vc_btn3-block vc_btn3-icon-left vc_btn3-color-grey" href="http://www.twitter.com/AAFIron" title="" target="_blank"><i class="vc_btn3-icon fa fa-twitter"></i> Twitter</a></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_btn3-container vc_btn3-center" >
+	<a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-square vc_btn3-style-outline vc_btn3-block vc_btn3-icon-left vc_btn3-color-grey" href="http://www.instagram.com/AAFIron" title="" target="_blank"><i class="vc_btn3-icon fa fa-instagram"></i> Instagram</a></div>
+</div></div></div></div></div></div></div></div>
+</div>												 
+                </div>
+                            	</div>
+		</div>
+	</div>
+</div>
+    <!-- Site Footer -->
+        <div class="site-footer site-footer-top">
+    	<div class="container">
+        	<div class="row">
+          		<div class="widget_text col-md-12 col-sm-6 widget footer_widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="banners-footer">
+<div class="banner1">
+	<a href="/shop/"><img src="https://aaf.com/wp-content/uploads/2018/11/AAF-017_MerchAd_728x90_EC_1.jpg" alt=""></a>
+</div>
+<div class="banner2">
+	<a href="https://aaf.com/product-category/birmingham-iron/"><img src="https://aaf.com/wp-content/uploads/2018/11/AAF-017_MerchAd_728x90_BIR.jpg" alt=""></a>
+</div>
+<div class="banner3">
+	<a href="https://aaf.com/product-category/atlanta-legends/"><img src="https://aaf.com/wp-content/uploads/2018/11/AAF-017_MerchAd_728x90_ATL.jpg" alt=""></a>
+</div>
+<div class="banner4">
+	<a href="https://aaf.com/product-category/memphis-express/"><img src="https://aaf.com/wp-content/uploads/2018/11/AAF-017_MerchAd_728x90_MEM.jpg" alt=""></a>
+</div>
+<div class="banner5">
+	<a href="https://aaf.com/product-category/orlando-apollos/"><img src="https://aaf.com/wp-content/uploads/2018/11/AAF-017_MerchAd_728x90_ORL.jpg" alt=""></a>
+</div>
+	<div class="banner6">
+	<a href="https://aaf.com/product-category/san-antonio-commanders/"><img src="https://aaf.com/wp-content/uploads/2018/11/AAF-017_MerchAd_728x90_SAC.jpg" alt=""></a>
+</div>
+<div class="banner7">
+	<a href="https://aaf.com/product-category/arizona-hotshots/"><img src="https://aaf.com/wp-content/uploads/2018/11/AAF-017_MerchAd_728x90_AZH.jpg" alt=""></a>
+</div>
+<div class="banner8">
+	<a href="https://aaf.com/product-category/salt-lake-stallions/"><img src="https://aaf.com/wp-content/uploads/2018/11/AAF-017_MerchAd_728x90_SLS.jpg" alt=""></a>
+</div>
+<div class="banner9">
+	<a href="https://aaf.com/product-category/san-diego-fleet/"><img src="https://aaf.com/wp-content/uploads/2018/11/AAF-017_MerchAd_728x90_SDF.jpg" alt=""></a>
+</div>
+</div></div></div>          	</div>
+     	</div>
+    </div>
+        <div class="site-footer-bottom">
+    	<div class="container">
+        	<div class="row">
+            	            		<div class="col-md-6 col-sm-6">
+                				                	<div class="copyrights-col-left">
+                   		<p>Copyright © 2018 Legendary Field Exhibitions, LLC. All Rights Reserved.</p>
+                  	</div>
+             	                </div>
+				            	<div class="col-md-6 col-sm-6">
+					                                                    <div class="copyrights-col-right">
+                            <ul id="menu-footer" class="footer-menu"><li id="menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1232"><a href="https://aaf.com/my-account/">Account / Login</a></li>
+<li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="https://aaf.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-24744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24744"><a href="https://aaf.com/terms-and-conditions/">Terms and Conditions</a></li>
+</ul>                            </div>
+                                                       		</div>
+               	      		</div>
+  		</div>
+	</div>
+    <a id="back-to-top"><i class="fa fa-arrow-up"></i></a> </div>
+<!-- End Boxed Body -->
+ <!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://aaf.com/wp-admin/admin-ajax.php";
+</script>
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel='stylesheet' id='vc_tta_style-css'  href='https://aaf.com/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css'  href='https://aaf.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://aaf.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.5.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/aaf.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.10.1'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_02102f4869da82e94f5be156330c8122","fragment_name":"wc_fragments_02102f4869da82e94f5be156330c8122"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/themes/tentered/js/modernizr.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/themes/tentered/vendor/magnific/jquery.magnific-popup.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.5.2'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/themes/tentered/js/ui-plugins.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/themes/tentered/js/helper-plugins.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/themes/tentered/vendor/owl-carousel/js/owl.carousel.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min.js?ver=5.5.2'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/themes/tentered/js/bootstrap.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var imi_local = {"homeurl":"https:\/\/aaf.com\/wp-content\/themes\/tentered","enableSticky":"0","siteWidth":"1170"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaf.com/wp-content/themes/tentered/js/init.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/variation-swatches-for-woocommerce/assets/js/frontend.js?ver=20160615'></script>
+<script type='text/javascript' src='https://aaf.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.5.2'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=5.5.2'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=5.5.2'></script>
+<script type='text/javascript' src='https://aaf.com/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.min.js?ver=5.5.2'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+
+ga( 'send', 'pageview' );
+
+ });
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWB7N44"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+</body>
+</html>
+<!-- Dynamic page generated in 0.101 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2018-12-01 04:03:20 -->
+
+<!-- super cache -->
